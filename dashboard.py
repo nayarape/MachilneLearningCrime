@@ -55,23 +55,6 @@ st.markdown("""
 </div>
 """, unsafe_allow_html=True)
 
-# Instruções sobre onde colocar o arquivo CSV
-with st.expander("📋 INSTRUÇÕES: Como usar este dashboard", expanded=True):
-    st.markdown("""
-    ### 🎯 **Passo a passo:**
-    
-    1. **Prepare seu arquivo CSV** com dados criminais
-    2. **Clique no botão de upload** na barra lateral ⬅️
-    3. **Selecione seu arquivo** ou arraste e solte
-    4. **Explore as análises** nas diferentes abas
-    
-    ### 📊 **Colunas esperadas:**
-    - `date` - Data do crime
-    - `crime_type` - Tipo de crime
-    - `location` - Localização
-    - `district` - Distrito/Bairro
-    - Outras colunas relevantes
-    """)
 
 # Sidebar
 st.sidebar.markdown("## 📊 Configurações")
