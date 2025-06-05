@@ -1,0 +1,1001 @@
+id,date,crime_type,location,neighborhood,victim_age,victim_gender,arrest_made
+1,2024-07-13 18:03:56.321585,Assalto à Mão Armada,Rua A,Jardim São Paulo,33,Não Informado,Sim
+2,2025-04-09 18:03:56.321634,Tráfico de Drogas,Parque Municipal,Imbiribeira,47,Masculino,Não
+3,2025-05-24 18:03:56.321639,Vandalismo,Rodovia BR-101,Madalena,37,Não Informado,Sim
+4,2025-01-16 18:03:56.321642,Violência Doméstica,Rodovia BR-101,Graças,30,Masculino,Não
+5,2025-01-31 18:03:56.321645,Assalto à Mão Armada,Rua das Flores,Boa Vista,63,Não Informado,Não
+6,2025-02-11 18:03:56.321649,Latrocínio,Parque Municipal,Madalena,27,Não Informado,Não
+7,2025-03-26 18:03:56.321652,Homicídio,Rua das Flores,Tamarineira,45,Masculino,Não
+8,2025-04-14 18:03:56.321656,Assalto à Mão Armada,Parque Municipal,Casa Forte,54,Masculino,Sim
+9,2024-06-24 18:03:56.321660,Vandalismo,Escola Estadual,Afogados,62,Não Informado,Sim
+10,2024-08-30 18:03:56.321664,Violência Doméstica,Rua A,Jardim São Paulo,39,Feminino,Sim
+11,2025-04-22 18:03:56.321667,Tráfico de Drogas,Escola Estadual,Imbiribeira,69,Masculino,Sim
+12,2024-08-07 18:03:56.321670,Vandalismo,Posto de Gasolina,Jardim São Paulo,41,Feminino,Sim
+13,2024-11-01 18:03:56.321673,Vandalismo,Centro Comercial,Madalena,76,Masculino,Não
+14,2025-05-20 18:03:56.321676,Homicídio,Praça da Paz,Afogados,76,Masculino,Sim
+15,2025-05-21 18:03:56.321678,Estupro,Parque Municipal,Tamarineira,37,Masculino,Sim
+16,2025-04-19 18:03:56.321681,Violência Doméstica,Posto de Gasolina,Ibura,53,Masculino,Sim
+17,2025-02-14 18:03:56.321687,Roubo,Centro Comercial,Boa Vista,50,Feminino,Sim
+18,2025-02-06 18:03:56.321690,Vandalismo,Estação de Metrô,Afogados,72,Masculino,Não
+19,2024-09-20 18:03:56.321692,Estupro,Rua A,Casa Forte,32,Não Informado,Não
+20,2024-08-01 18:03:56.321695,Roubo,Rua das Flores,Graças,57,Não Informado,Não
+21,2025-05-23 18:03:56.321698,Violência Doméstica,Rua das Flores,Tamarineira,41,Feminino,Não
+22,2024-08-22 18:03:56.321701,Furto,Escola Estadual,Boa Vista,66,Masculino,Não
+23,2025-02-24 18:03:56.321704,Latrocínio,Rodovia BR-101,Imbiribeira,42,Não Informado,Sim
+24,2024-07-08 18:03:56.321707,Estupro,Centro Comercial,Graças,33,Feminino,Não
+25,2024-06-11 18:03:56.321709,Sequestro,Estação de Metrô,Madalena,48,Masculino,Não
+26,2024-08-30 18:03:56.321712,Furto,Posto de Gasolina,Afogados,43,Não Informado,Não
+27,2024-11-03 18:03:56.321715,Latrocínio,Rua A,Boa Vista,65,Não Informado,Sim
+28,2025-02-13 18:03:56.321718,Homicídio,Centro Comercial,Centro,37,Feminino,Sim
+29,2024-10-19 18:03:56.321720,Assalto à Mão Armada,Estação de Metrô,Ibura,46,Masculino,Não
+30,2024-08-08 18:03:56.321723,Tráfico de Drogas,Praça da Paz,Ibura,16,Masculino,Sim
+31,2025-01-14 18:03:56.321726,Sequestro,Parque Municipal,Tamarineira,77,Não Informado,Sim
+32,2025-06-02 18:03:56.321728,Homicídio,Rua das Flores,Imbiribeira,46,Não Informado,Não
+33,2025-03-16 18:03:56.321731,Violência Doméstica,Posto de Gasolina,Tamarineira,65,Não Informado,Sim
+34,2024-06-13 18:03:56.321734,Homicídio,Rua das Flores,Centro,74,Masculino,Sim
+35,2024-11-01 18:03:56.321737,Assalto à Mão Armada,Posto de Gasolina,Casa Forte,74,Feminino,Sim
+36,2024-12-13 18:03:56.321740,Violência Doméstica,Escola Estadual,Imbiribeira,56,Feminino,Não
+37,2025-01-14 18:03:56.321743,Sequestro,Rodovia BR-101,Jardim São Paulo,29,Masculino,Não
+38,2025-03-18 18:03:56.321745,Assalto à Mão Armada,Posto de Gasolina,Casa Forte,28,Feminino,Não
+39,2025-02-15 18:03:56.321748,Roubo,Rua das Flores,Imbiribeira,38,Não Informado,Sim
+40,2024-12-15 18:03:56.321751,Tráfico de Drogas,Escola Estadual,Imbiribeira,69,Feminino,Não
+41,2025-04-14 18:03:56.321757,Sequestro,Posto de Gasolina,Centro,27,Feminino,Sim
+42,2025-04-19 18:03:56.321762,Roubo,Praça da Paz,Madalena,44,Feminino,Sim
+43,2024-11-23 18:03:56.321768,Latrocínio,Rodovia BR-101,Centro,52,Não Informado,Sim
+44,2025-04-17 18:03:56.321773,Sequestro,Posto de Gasolina,Imbiribeira,20,Masculino,Não
+45,2024-12-04 18:03:56.321786,Latrocínio,Escola Estadual,Boa Vista,58,Não Informado,Não
+46,2024-12-11 18:03:56.321790,Violência Doméstica,Centro Comercial,Casa Forte,47,Masculino,Não
+47,2024-07-31 18:03:56.321792,Roubo,Avenida Central,Centro,73,Masculino,Não
+48,2025-01-21 18:03:56.321795,Tráfico de Drogas,Estação de Metrô,Madalena,78,Masculino,Sim
+49,2025-05-14 18:03:56.321798,Assalto à Mão Armada,Avenida Central,Afogados,17,Feminino,Não
+50,2024-10-13 18:03:56.321800,Vandalismo,Avenida Central,Tamarineira,43,Feminino,Sim
+51,2024-09-04 18:03:56.321803,Homicídio,Rua A,Imbiribeira,57,Masculino,Não
+52,2025-04-03 18:03:56.321808,Furto,Praça da Paz,Jardim São Paulo,65,Masculino,Não
+53,2024-11-24 18:03:56.321814,Tráfico de Drogas,Centro Comercial,Afogados,74,Feminino,Não
+54,2025-04-26 18:03:56.321820,Roubo,Parque Municipal,Ibura,40,Não Informado,Sim
+55,2024-08-27 18:03:56.321825,Vandalismo,Posto de Gasolina,Graças,13,Masculino,Sim
+56,2025-01-06 18:03:56.321830,Tráfico de Drogas,Estação de Metrô,Madalena,59,Não Informado,Sim
+57,2024-07-19 18:03:56.321835,Roubo,Rodovia BR-101,Jardim São Paulo,78,Feminino,Sim
+58,2024-07-24 18:03:56.321840,Estupro,Centro Comercial,Graças,39,Masculino,Sim
+59,2024-12-02 18:03:56.321845,Estupro,Rua das Flores,Madalena,68,Não Informado,Não
+60,2024-08-14 18:03:56.321851,Latrocínio,Parque Municipal,Boa Vista,76,Não Informado,Sim
+61,2025-02-27 18:03:56.321862,Tráfico de Drogas,Rua A,Tamarineira,54,Não Informado,Sim
+62,2024-06-10 18:03:56.321865,Estupro,Rua A,Afogados,13,Feminino,Sim
+63,2025-05-01 18:03:56.321868,Roubo,Centro Comercial,Casa Forte,35,Feminino,Sim
+64,2025-05-13 18:03:56.321871,Latrocínio,Escola Estadual,Madalena,36,Não Informado,Não
+65,2024-07-02 18:03:56.321873,Roubo,Avenida Central,Casa Forte,55,Não Informado,Sim
+66,2025-02-09 18:03:56.321877,Latrocínio,Rua das Flores,Tamarineira,73,Feminino,Não
+67,2025-01-08 18:03:56.321880,Tráfico de Drogas,Rua A,Imbiribeira,60,Não Informado,Não
+68,2025-04-26 18:03:56.321882,Vandalismo,Estação de Metrô,Ibura,59,Não Informado,Não
+69,2025-02-06 18:03:56.321885,Assalto à Mão Armada,Rua A,Afogados,15,Feminino,Sim
+70,2025-04-15 18:03:56.321888,Sequestro,Rodovia BR-101,Tamarineira,68,Não Informado,Não
+71,2024-11-23 18:03:56.321890,Vandalismo,Posto de Gasolina,Tamarineira,24,Não Informado,Sim
+72,2025-01-14 18:03:56.321893,Violência Doméstica,Rua A,Boa Vista,39,Não Informado,Sim
+73,2024-10-16 18:03:56.321895,Roubo,Rodovia BR-101,Graças,51,Feminino,Sim
+74,2024-07-15 18:03:56.321898,Violência Doméstica,Centro Comercial,Ibura,46,Não Informado,Sim
+75,2024-12-01 18:03:56.321901,Vandalismo,Centro Comercial,Afogados,51,Feminino,Sim
+76,2025-03-14 18:03:56.321904,Latrocínio,Parque Municipal,Imbiribeira,44,Feminino,Não
+77,2024-11-28 18:03:56.321906,Sequestro,Rua A,Imbiribeira,15,Masculino,Não
+78,2024-12-06 18:03:56.321909,Sequestro,Estação de Metrô,Centro,77,Masculino,Sim
+79,2025-02-18 18:03:56.321912,Furto,Rua A,Tamarineira,27,Não Informado,Não
+80,2024-06-27 18:03:56.321915,Sequestro,Estação de Metrô,Madalena,38,Feminino,Sim
+81,2025-01-20 18:03:56.321918,Assalto à Mão Armada,Praça da Paz,Boa Vista,68,Masculino,Não
+82,2024-06-11 18:03:56.321920,Sequestro,Parque Municipal,Ibura,56,Não Informado,Não
+83,2024-06-21 18:03:56.321923,Vandalismo,Praça da Paz,Imbiribeira,26,Masculino,Não
+84,2024-07-09 18:03:56.321926,Furto,Rua A,Afogados,31,Masculino,Não
+85,2025-04-30 18:03:56.321929,Vandalismo,Parque Municipal,Centro,77,Feminino,Não
+86,2024-07-29 18:03:56.321950,Vandalismo,Praça da Paz,Afogados,78,Feminino,Sim
+87,2024-07-15 18:03:56.321955,Homicídio,Avenida Central,Boa Vista,46,Masculino,Sim
+88,2025-03-10 18:03:56.321958,Furto,Rua A,Madalena,58,Masculino,Não
+89,2024-09-05 18:03:56.321960,Vandalismo,Praça da Paz,Centro,22,Feminino,Sim
+90,2025-01-31 18:03:56.321965,Homicídio,Avenida Central,Centro,43,Não Informado,Não
+91,2025-03-14 18:03:56.321971,Homicídio,Avenida Central,Graças,62,Feminino,Sim
+92,2024-10-12 18:03:56.322172,Furto,Centro Comercial,Ibura,60,Masculino,Não
+93,2024-11-23 18:03:56.322189,Violência Doméstica,Rua A,Centro,12,Não Informado,Não
+94,2025-01-18 18:03:56.322193,Latrocínio,Avenida Central,Graças,51,Masculino,Não
+95,2024-07-13 18:03:56.322196,Assalto à Mão Armada,Centro Comercial,Graças,41,Não Informado,Sim
+96,2024-06-18 18:03:56.322200,Latrocínio,Praça da Paz,Boa Vista,60,Masculino,Sim
+97,2024-08-24 18:03:56.322202,Sequestro,Rodovia BR-101,Casa Forte,55,Não Informado,Não
+98,2025-02-13 18:03:56.322205,Assalto à Mão Armada,Rua A,Afogados,30,Não Informado,Não
+99,2024-06-20 18:03:56.322208,Sequestro,Parque Municipal,Madalena,53,Masculino,Sim
+100,2024-12-21 18:03:56.322212,Vandalismo,Estação de Metrô,Jardim São Paulo,20,Não Informado,Sim
+101,2025-05-08 18:03:56.322215,Roubo,Estação de Metrô,Afogados,77,Feminino,Sim
+102,2025-02-08 18:03:56.322218,Furto,Praça da Paz,Centro,10,Masculino,Sim
+103,2025-05-20 18:03:56.322220,Assalto à Mão Armada,Escola Estadual,Madalena,72,Feminino,Sim
+104,2024-12-26 18:03:56.322223,Assalto à Mão Armada,Escola Estadual,Imbiribeira,33,Masculino,Não
+105,2024-11-12 18:03:56.322226,Vandalismo,Praça da Paz,Casa Forte,22,Não Informado,Sim
+106,2025-01-19 18:03:56.322229,Violência Doméstica,Avenida Central,Imbiribeira,20,Não Informado,Não
+107,2025-05-03 18:03:56.322232,Homicídio,Rua A,Imbiribeira,60,Não Informado,Não
+108,2025-02-17 18:03:56.322234,Vandalismo,Estação de Metrô,Ibura,26,Masculino,Sim
+109,2024-08-19 18:03:56.322237,Estupro,Estação de Metrô,Afogados,33,Feminino,Sim
+110,2024-12-26 18:03:56.322241,Homicídio,Avenida Central,Jardim São Paulo,28,Feminino,Não
+111,2025-02-17 18:03:56.322243,Furto,Estação de Metrô,Boa Vista,46,Masculino,Sim
+112,2024-07-05 18:03:56.322246,Homicídio,Parque Municipal,Jardim São Paulo,17,Masculino,Não
+113,2024-09-23 18:03:56.322249,Violência Doméstica,Rua A,Imbiribeira,37,Feminino,Sim
+114,2024-11-15 18:03:56.322252,Homicídio,Posto de Gasolina,Centro,14,Feminino,Sim
+115,2024-07-11 18:03:56.322254,Furto,Estação de Metrô,Casa Forte,26,Feminino,Sim
+116,2024-10-14 18:03:56.322257,Violência Doméstica,Praça da Paz,Tamarineira,45,Feminino,Não
+117,2025-03-24 18:03:56.322260,Latrocínio,Parque Municipal,Jardim São Paulo,28,Masculino,Sim
+118,2025-01-21 18:03:56.322263,Assalto à Mão Armada,Estação de Metrô,Imbiribeira,73,Masculino,Não
+119,2025-03-26 18:03:56.322265,Assalto à Mão Armada,Parque Municipal,Casa Forte,20,Não Informado,Sim
+120,2025-01-30 18:03:56.322268,Sequestro,Centro Comercial,Madalena,63,Feminino,Não
+121,2024-08-22 18:03:56.322270,Latrocínio,Posto de Gasolina,Afogados,54,Não Informado,Sim
+122,2024-09-03 18:03:56.322273,Latrocínio,Rua das Flores,Graças,56,Masculino,Não
+123,2025-01-22 18:03:56.322276,Homicídio,Praça da Paz,Ibura,21,Masculino,Não
+124,2024-08-10 18:03:56.322279,Assalto à Mão Armada,Praça da Paz,Casa Forte,30,Não Informado,Não
+125,2024-10-29 18:03:56.322281,Furto,Rua A,Centro,20,Feminino,Não
+126,2024-08-11 18:03:56.322284,Tráfico de Drogas,Parque Municipal,Centro,14,Feminino,Não
+127,2024-11-13 18:03:56.322287,Tráfico de Drogas,Avenida Central,Casa Forte,65,Feminino,Não
+128,2024-12-02 18:03:56.322290,Violência Doméstica,Praça da Paz,Centro,29,Feminino,Sim
+129,2025-02-13 18:03:56.322293,Assalto à Mão Armada,Parque Municipal,Afogados,50,Não Informado,Não
+130,2025-03-27 18:03:56.322298,Assalto à Mão Armada,Parque Municipal,Centro,55,Não Informado,Não
+131,2024-09-18 18:03:56.322300,Tráfico de Drogas,Rodovia BR-101,Jardim São Paulo,21,Masculino,Não
+132,2024-09-26 18:03:56.322303,Assalto à Mão Armada,Rodovia BR-101,Graças,79,Feminino,Sim
+133,2025-04-20 18:03:56.322306,Homicídio,Rua das Flores,Centro,26,Feminino,Sim
+134,2025-05-12 18:03:56.322309,Estupro,Centro Comercial,Graças,28,Feminino,Sim
+135,2025-04-10 18:03:56.322312,Roubo,Rua das Flores,Imbiribeira,35,Não Informado,Não
+136,2025-03-19 18:03:56.322315,Latrocínio,Estação de Metrô,Boa Vista,57,Feminino,Sim
+137,2024-07-19 18:03:56.322318,Sequestro,Avenida Central,Afogados,61,Não Informado,Sim
+138,2025-03-16 18:03:56.322320,Violência Doméstica,Estação de Metrô,Boa Vista,79,Feminino,Não
+139,2024-06-22 18:03:56.322323,Estupro,Escola Estadual,Imbiribeira,64,Feminino,Não
+140,2024-11-01 18:03:56.322326,Tráfico de Drogas,Estação de Metrô,Afogados,42,Masculino,Sim
+141,2024-08-04 18:03:56.322328,Latrocínio,Rua A,Casa Forte,71,Feminino,Não
+142,2025-05-04 18:03:56.322331,Assalto à Mão Armada,Estação de Metrô,Casa Forte,32,Feminino,Não
+143,2024-11-20 18:03:56.322334,Sequestro,Rua das Flores,Graças,24,Masculino,Não
+144,2024-11-22 18:03:56.322336,Assalto à Mão Armada,Praça da Paz,Imbiribeira,36,Não Informado,Não
+145,2024-08-04 18:03:56.322339,Furto,Praça da Paz,Graças,73,Não Informado,Sim
+146,2024-10-09 18:03:56.322342,Furto,Rodovia BR-101,Ibura,60,Feminino,Não
+147,2024-09-08 18:03:56.322345,Sequestro,Avenida Central,Centro,62,Não Informado,Sim
+148,2025-01-28 18:03:56.322347,Sequestro,Avenida Central,Tamarineira,60,Feminino,Sim
+149,2024-08-26 18:03:56.322350,Tráfico de Drogas,Rua A,Ibura,56,Masculino,Sim
+150,2025-05-31 18:03:56.322354,Sequestro,Rua das Flores,Centro,13,Masculino,Sim
+151,2024-06-22 18:03:56.322357,Homicídio,Rodovia BR-101,Afogados,16,Feminino,Não
+152,2025-04-08 18:03:56.322360,Assalto à Mão Armada,Escola Estadual,Graças,44,Masculino,Não
+153,2024-06-21 18:03:56.322366,Estupro,Avenida Central,Afogados,57,Masculino,Não
+154,2024-09-04 18:03:56.322370,Vandalismo,Praça da Paz,Afogados,54,Feminino,Sim
+155,2025-01-20 18:03:56.322376,Sequestro,Estação de Metrô,Centro,28,Feminino,Sim
+156,2024-07-12 18:03:56.322381,Violência Doméstica,Estação de Metrô,Imbiribeira,72,Masculino,Sim
+157,2024-12-13 18:03:56.322386,Furto,Rodovia BR-101,Centro,47,Não Informado,Não
+158,2025-04-09 18:03:56.322391,Homicídio,Rua das Flores,Madalena,76,Não Informado,Sim
+159,2025-01-06 18:03:56.322396,Latrocínio,Rua das Flores,Casa Forte,68,Feminino,Não
+160,2024-10-26 18:03:56.322401,Vandalismo,Centro Comercial,Casa Forte,78,Feminino,Não
+161,2025-03-17 18:03:56.322404,Estupro,Posto de Gasolina,Ibura,22,Não Informado,Não
+162,2024-10-16 18:03:56.322406,Vandalismo,Avenida Central,Casa Forte,56,Masculino,Não
+163,2025-06-04 18:03:56.322409,Sequestro,Rua das Flores,Centro,70,Não Informado,Sim
+164,2025-01-22 18:03:56.322412,Tráfico de Drogas,Praça da Paz,Jardim São Paulo,40,Não Informado,Não
+165,2024-09-22 18:03:56.322415,Furto,Rodovia BR-101,Graças,31,Não Informado,Sim
+166,2025-03-06 18:03:56.322418,Furto,Escola Estadual,Centro,52,Não Informado,Não
+167,2024-09-19 18:03:56.322421,Latrocínio,Centro Comercial,Centro,76,Feminino,Sim
+168,2025-04-12 18:03:56.322423,Tráfico de Drogas,Parque Municipal,Tamarineira,63,Feminino,Sim
+169,2024-07-20 18:03:56.322426,Assalto à Mão Armada,Rua A,Graças,19,Masculino,Não
+170,2025-01-04 18:03:56.322429,Roubo,Escola Estadual,Madalena,51,Masculino,Não
+171,2024-07-13 18:03:56.322431,Homicídio,Parque Municipal,Casa Forte,73,Masculino,Não
+172,2024-09-19 18:03:56.322434,Furto,Estação de Metrô,Graças,30,Masculino,Sim
+173,2024-07-29 18:03:56.322437,Violência Doméstica,Rua A,Casa Forte,75,Não Informado,Não
+174,2025-02-24 18:03:56.322440,Furto,Avenida Central,Ibura,50,Feminino,Não
+175,2025-03-19 18:03:56.322443,Vandalismo,Praça da Paz,Graças,33,Feminino,Sim
+176,2024-11-26 18:03:56.322446,Furto,Rua A,Casa Forte,44,Masculino,Não
+177,2025-03-15 18:03:56.322448,Furto,Posto de Gasolina,Madalena,65,Masculino,Sim
+178,2024-09-02 18:03:56.322451,Roubo,Parque Municipal,Boa Vista,39,Não Informado,Não
+179,2024-09-07 18:03:56.322454,Roubo,Avenida Central,Afogados,66,Não Informado,Sim
+180,2025-06-05 18:03:56.322458,Estupro,Posto de Gasolina,Afogados,56,Masculino,Sim
+181,2024-08-03 18:03:56.322461,Assalto à Mão Armada,Estação de Metrô,Madalena,44,Feminino,Não
+182,2024-12-22 18:03:56.322464,Violência Doméstica,Posto de Gasolina,Tamarineira,28,Feminino,Sim
+183,2024-09-28 18:03:56.322467,Furto,Centro Comercial,Boa Vista,17,Feminino,Não
+184,2025-05-27 18:03:56.322469,Furto,Centro Comercial,Ibura,35,Masculino,Não
+185,2025-04-09 18:03:56.322472,Homicídio,Rodovia BR-101,Madalena,39,Feminino,Sim
+186,2024-12-02 18:03:56.322475,Roubo,Escola Estadual,Afogados,16,Não Informado,Não
+187,2024-12-30 18:03:56.322477,Violência Doméstica,Escola Estadual,Afogados,76,Não Informado,Sim
+188,2025-02-03 18:03:56.322480,Latrocínio,Avenida Central,Afogados,74,Masculino,Sim
+189,2025-05-07 18:03:56.322483,Estupro,Estação de Metrô,Imbiribeira,45,Não Informado,Sim
+190,2025-02-02 18:03:56.322486,Assalto à Mão Armada,Rua das Flores,Madalena,34,Masculino,Sim
+191,2024-08-19 18:03:56.322488,Tráfico de Drogas,Centro Comercial,Centro,46,Feminino,Sim
+192,2025-04-26 18:03:56.322491,Assalto à Mão Armada,Avenida Central,Ibura,10,Feminino,Sim
+193,2025-04-23 18:03:56.322494,Vandalismo,Rua das Flores,Afogados,24,Feminino,Sim
+194,2024-09-30 18:03:56.322496,Furto,Escola Estadual,Casa Forte,46,Não Informado,Sim
+195,2025-05-01 18:03:56.322499,Estupro,Rodovia BR-101,Madalena,22,Masculino,Não
+196,2024-09-06 18:03:56.322502,Vandalismo,Posto de Gasolina,Imbiribeira,17,Feminino,Não
+197,2025-04-02 18:03:56.322505,Violência Doméstica,Centro Comercial,Madalena,14,Masculino,Sim
+198,2025-04-01 18:03:56.322508,Tráfico de Drogas,Avenida Central,Ibura,69,Feminino,Não
+199,2024-07-03 18:03:56.322513,Roubo,Rua A,Imbiribeira,10,Não Informado,Não
+200,2024-10-05 18:03:56.322518,Estupro,Rua das Flores,Ibura,45,Não Informado,Não
+201,2024-08-28 18:03:56.322523,Estupro,Posto de Gasolina,Madalena,44,Masculino,Não
+202,2025-03-13 18:03:56.322529,Furto,Centro Comercial,Centro,75,Não Informado,Não
+203,2025-01-21 18:03:56.322534,Sequestro,Escola Estadual,Ibura,72,Não Informado,Não
+204,2024-09-08 18:03:56.322540,Estupro,Estação de Metrô,Imbiribeira,32,Masculino,Sim
+205,2024-07-30 18:03:56.322543,Homicídio,Rua das Flores,Imbiribeira,18,Feminino,Não
+206,2024-11-01 18:03:56.322546,Tráfico de Drogas,Escola Estadual,Ibura,43,Não Informado,Não
+207,2025-02-17 18:03:56.322549,Tráfico de Drogas,Centro Comercial,Jardim São Paulo,55,Masculino,Não
+208,2024-09-02 18:03:56.322552,Homicídio,Rua das Flores,Madalena,13,Não Informado,Não
+209,2024-06-17 18:03:56.322554,Latrocínio,Posto de Gasolina,Jardim São Paulo,39,Não Informado,Sim
+210,2025-02-23 18:03:56.322557,Homicídio,Centro Comercial,Tamarineira,12,Não Informado,Sim
+211,2024-06-05 18:03:56.322560,Homicídio,Parque Municipal,Madalena,23,Não Informado,Sim
+212,2024-12-28 18:03:56.322563,Tráfico de Drogas,Avenida Central,Ibura,69,Masculino,Sim
+213,2024-11-13 18:03:56.322567,Assalto à Mão Armada,Posto de Gasolina,Boa Vista,54,Masculino,Não
+214,2024-06-27 18:03:56.322572,Tráfico de Drogas,Rua das Flores,Ibura,43,Masculino,Sim
+215,2024-07-08 18:03:56.322578,Sequestro,Estação de Metrô,Jardim São Paulo,54,Não Informado,Sim
+216,2024-11-26 18:03:56.322583,Furto,Escola Estadual,Centro,70,Não Informado,Sim
+217,2024-10-24 18:03:56.322588,Vandalismo,Rua A,Ibura,25,Não Informado,Sim
+218,2024-09-14 18:03:56.322593,Assalto à Mão Armada,Escola Estadual,Ibura,75,Masculino,Não
+219,2024-10-17 18:03:56.322598,Roubo,Rua das Flores,Centro,49,Não Informado,Sim
+220,2025-04-05 18:03:56.322600,Vandalismo,Escola Estadual,Ibura,26,Feminino,Não
+221,2025-01-30 18:03:56.322603,Furto,Avenida Central,Afogados,43,Não Informado,Sim
+222,2025-02-10 18:03:56.322606,Sequestro,Centro Comercial,Boa Vista,25,Feminino,Não
+223,2025-05-04 18:03:56.322609,Sequestro,Rua A,Casa Forte,69,Não Informado,Não
+224,2024-12-14 18:03:56.322611,Roubo,Praça da Paz,Boa Vista,75,Masculino,Sim
+225,2025-05-26 18:03:56.322614,Assalto à Mão Armada,Rua das Flores,Ibura,75,Não Informado,Sim
+226,2024-08-08 18:03:56.322617,Latrocínio,Rodovia BR-101,Afogados,22,Feminino,Sim
+227,2024-08-26 18:03:56.322619,Homicídio,Praça da Paz,Madalena,65,Feminino,Sim
+228,2025-02-08 18:03:56.322622,Assalto à Mão Armada,Escola Estadual,Ibura,40,Não Informado,Não
+229,2024-08-08 18:03:56.322625,Latrocínio,Rua das Flores,Jardim São Paulo,43,Feminino,Não
+230,2025-02-13 18:03:56.322628,Sequestro,Parque Municipal,Afogados,48,Feminino,Sim
+231,2025-06-02 18:03:56.322631,Tráfico de Drogas,Rodovia BR-101,Centro,76,Masculino,Sim
+232,2025-04-30 18:03:56.322634,Furto,Rua A,Afogados,17,Não Informado,Não
+233,2024-06-08 18:03:56.322637,Roubo,Estação de Metrô,Centro,64,Não Informado,Sim
+234,2024-07-17 18:03:56.322640,Furto,Parque Municipal,Tamarineira,36,Não Informado,Não
+235,2025-05-06 18:03:56.322643,Violência Doméstica,Praça da Paz,Casa Forte,62,Feminino,Sim
+236,2025-02-08 18:03:56.322645,Violência Doméstica,Centro Comercial,Graças,48,Não Informado,Não
+237,2025-05-02 18:03:56.322648,Assalto à Mão Armada,Avenida Central,Afogados,74,Não Informado,Não
+238,2025-05-20 18:03:56.322651,Sequestro,Estação de Metrô,Imbiribeira,26,Masculino,Não
+239,2024-12-18 18:03:56.322654,Sequestro,Parque Municipal,Jardim São Paulo,39,Masculino,Não
+240,2025-04-30 18:03:56.322656,Homicídio,Centro Comercial,Ibura,62,Masculino,Não
+241,2024-09-15 18:03:56.322659,Homicídio,Centro Comercial,Jardim São Paulo,22,Feminino,Sim
+242,2025-02-04 18:03:56.322662,Homicídio,Rua das Flores,Boa Vista,30,Não Informado,Não
+243,2025-01-14 18:03:56.322664,Tráfico de Drogas,Parque Municipal,Graças,28,Masculino,Sim
+244,2024-06-28 18:03:56.322667,Vandalismo,Rua A,Boa Vista,62,Masculino,Não
+245,2024-09-30 18:03:56.322670,Estupro,Escola Estadual,Tamarineira,28,Masculino,Não
+246,2025-02-16 18:03:56.322673,Vandalismo,Rodovia BR-101,Graças,66,Não Informado,Sim
+247,2024-09-02 18:03:56.322675,Furto,Rodovia BR-101,Graças,34,Não Informado,Sim
+248,2025-03-30 18:03:56.322678,Vandalismo,Praça da Paz,Boa Vista,40,Não Informado,Sim
+249,2024-08-17 18:03:56.322681,Tráfico de Drogas,Praça da Paz,Centro,64,Feminino,Sim
+250,2024-08-14 18:03:56.322684,Furto,Rodovia BR-101,Boa Vista,32,Feminino,Não
+251,2024-10-06 18:03:56.322687,Vandalismo,Rua A,Jardim São Paulo,41,Masculino,Sim
+252,2025-02-01 18:03:56.322689,Tráfico de Drogas,Avenida Central,Centro,71,Não Informado,Não
+253,2024-10-06 18:03:56.322692,Estupro,Posto de Gasolina,Jardim São Paulo,19,Masculino,Sim
+254,2024-11-09 18:03:56.322695,Vandalismo,Escola Estadual,Tamarineira,63,Não Informado,Sim
+255,2025-02-28 18:03:56.322698,Tráfico de Drogas,Avenida Central,Ibura,61,Não Informado,Não
+256,2025-04-18 18:03:56.322701,Homicídio,Rua das Flores,Madalena,29,Não Informado,Não
+257,2025-04-17 18:03:56.322703,Sequestro,Posto de Gasolina,Centro,41,Feminino,Sim
+258,2024-07-03 18:03:56.322706,Homicídio,Posto de Gasolina,Tamarineira,23,Feminino,Não
+259,2024-10-28 18:03:56.322709,Sequestro,Parque Municipal,Imbiribeira,59,Não Informado,Não
+260,2024-12-06 18:03:56.322711,Roubo,Rua A,Tamarineira,37,Masculino,Não
+261,2024-11-01 18:03:56.322714,Roubo,Rua A,Boa Vista,62,Não Informado,Não
+262,2024-11-07 18:03:56.322717,Roubo,Posto de Gasolina,Boa Vista,33,Não Informado,Não
+263,2024-10-09 18:03:56.322720,Estupro,Parque Municipal,Madalena,31,Masculino,Não
+264,2025-05-09 18:03:56.322723,Homicídio,Escola Estadual,Tamarineira,39,Não Informado,Não
+265,2024-06-26 18:03:56.322725,Sequestro,Posto de Gasolina,Casa Forte,72,Masculino,Não
+266,2024-07-06 18:03:56.322728,Tráfico de Drogas,Estação de Metrô,Ibura,13,Feminino,Sim
+267,2024-07-10 18:03:56.322731,Furto,Praça da Paz,Boa Vista,68,Feminino,Não
+268,2025-04-16 18:03:56.322734,Tráfico de Drogas,Praça da Paz,Madalena,17,Masculino,Sim
+269,2025-05-05 18:03:56.322737,Furto,Avenida Central,Ibura,21,Feminino,Não
+270,2024-11-11 18:03:56.322739,Violência Doméstica,Rua das Flores,Tamarineira,40,Feminino,Não
+271,2024-12-14 18:03:56.322742,Tráfico de Drogas,Praça da Paz,Tamarineira,43,Masculino,Não
+272,2025-04-11 18:03:56.322745,Vandalismo,Centro Comercial,Graças,58,Feminino,Não
+273,2025-01-29 18:03:56.322748,Vandalismo,Avenida Central,Madalena,66,Não Informado,Sim
+274,2025-02-27 18:03:56.322750,Assalto à Mão Armada,Praça da Paz,Boa Vista,35,Não Informado,Sim
+275,2025-02-28 18:03:56.322753,Homicídio,Rua das Flores,Casa Forte,27,Masculino,Não
+276,2024-09-04 18:03:56.322756,Furto,Rua A,Tamarineira,47,Feminino,Sim
+277,2024-10-19 18:03:56.322758,Furto,Rua A,Casa Forte,59,Não Informado,Não
+278,2025-03-26 18:03:56.322761,Homicídio,Escola Estadual,Tamarineira,17,Não Informado,Não
+279,2024-11-01 18:03:56.322764,Estupro,Posto de Gasolina,Boa Vista,50,Feminino,Sim
+280,2025-03-04 18:03:56.322766,Assalto à Mão Armada,Estação de Metrô,Ibura,15,Feminino,Sim
+281,2025-01-14 18:03:56.322769,Estupro,Rua A,Afogados,78,Não Informado,Não
+282,2024-10-12 18:03:56.322772,Estupro,Parque Municipal,Ibura,53,Não Informado,Não
+283,2025-01-29 18:03:56.322774,Estupro,Praça da Paz,Tamarineira,73,Masculino,Sim
+284,2025-04-28 18:03:56.322777,Homicídio,Parque Municipal,Jardim São Paulo,38,Masculino,Não
+285,2024-10-22 18:03:56.322780,Estupro,Rua das Flores,Afogados,37,Não Informado,Sim
+286,2024-08-28 18:03:56.322783,Vandalismo,Rua A,Afogados,20,Masculino,Não
+287,2025-04-16 18:03:56.322786,Roubo,Estação de Metrô,Casa Forte,74,Não Informado,Não
+288,2025-05-11 18:03:56.322788,Violência Doméstica,Rua das Flores,Madalena,28,Não Informado,Sim
+289,2024-07-07 18:03:56.322791,Furto,Centro Comercial,Casa Forte,18,Masculino,Sim
+290,2024-09-02 18:03:56.322794,Furto,Centro Comercial,Casa Forte,36,Masculino,Sim
+291,2025-05-29 18:03:56.322797,Violência Doméstica,Parque Municipal,Jardim São Paulo,43,Feminino,Não
+292,2025-04-19 18:03:56.322799,Homicídio,Posto de Gasolina,Ibura,53,Feminino,Não
+293,2025-02-04 18:03:56.322802,Tráfico de Drogas,Avenida Central,Ibura,77,Feminino,Não
+294,2025-03-12 18:03:56.322805,Homicídio,Posto de Gasolina,Imbiribeira,24,Não Informado,Não
+295,2024-11-09 18:03:56.322808,Furto,Escola Estadual,Tamarineira,60,Masculino,Sim
+296,2024-09-30 18:03:56.322810,Furto,Posto de Gasolina,Jardim São Paulo,22,Não Informado,Não
+297,2024-10-02 18:03:56.322813,Violência Doméstica,Escola Estadual,Imbiribeira,58,Masculino,Não
+298,2025-02-16 18:03:56.322815,Estupro,Escola Estadual,Boa Vista,79,Não Informado,Não
+299,2024-11-12 18:03:56.322818,Homicídio,Estação de Metrô,Tamarineira,65,Feminino,Sim
+300,2025-05-06 18:03:56.322821,Sequestro,Rua A,Tamarineira,60,Feminino,Não
+301,2025-03-13 18:03:56.322824,Violência Doméstica,Estação de Metrô,Graças,46,Feminino,Não
+302,2024-11-23 18:03:56.322826,Vandalismo,Escola Estadual,Graças,26,Não Informado,Sim
+303,2025-06-04 18:03:56.322829,Furto,Rua das Flores,Centro,67,Masculino,Não
+304,2024-11-18 18:03:56.322832,Violência Doméstica,Centro Comercial,Centro,38,Masculino,Não
+305,2025-01-21 18:03:56.322834,Homicídio,Escola Estadual,Casa Forte,42,Feminino,Sim
+306,2024-10-16 18:03:56.322837,Furto,Estação de Metrô,Boa Vista,69,Feminino,Não
+307,2025-01-10 18:03:56.322840,Tráfico de Drogas,Rua das Flores,Afogados,64,Feminino,Não
+308,2024-11-01 18:03:56.322843,Violência Doméstica,Estação de Metrô,Afogados,19,Feminino,Não
+309,2024-06-14 18:03:56.322845,Assalto à Mão Armada,Posto de Gasolina,Graças,56,Masculino,Sim
+310,2024-08-25 18:03:56.322849,Furto,Praça da Paz,Graças,32,Não Informado,Não
+311,2024-07-02 18:03:56.322852,Homicídio,Parque Municipal,Graças,30,Não Informado,Não
+312,2024-09-29 18:03:56.322855,Roubo,Avenida Central,Jardim São Paulo,22,Não Informado,Sim
+313,2025-03-18 18:03:56.322857,Sequestro,Estação de Metrô,Madalena,42,Não Informado,Sim
+314,2025-02-28 18:03:56.322860,Latrocínio,Avenida Central,Centro,33,Feminino,Não
+315,2025-01-05 18:03:56.322863,Estupro,Rodovia BR-101,Jardim São Paulo,20,Feminino,Não
+316,2025-02-14 18:03:56.322866,Latrocínio,Estação de Metrô,Ibura,26,Feminino,Não
+317,2025-05-07 18:03:56.322868,Homicídio,Praça da Paz,Afogados,77,Não Informado,Não
+318,2024-08-13 18:03:56.322871,Vandalismo,Avenida Central,Tamarineira,56,Feminino,Sim
+319,2024-09-01 18:03:56.322874,Vandalismo,Escola Estadual,Centro,34,Feminino,Não
+320,2025-05-05 18:03:56.322876,Roubo,Estação de Metrô,Imbiribeira,30,Masculino,Sim
+321,2024-12-27 18:03:56.322879,Estupro,Rua A,Ibura,21,Masculino,Sim
+322,2025-05-07 18:03:56.322882,Assalto à Mão Armada,Parque Municipal,Centro,46,Feminino,Não
+323,2025-05-11 18:03:56.322885,Roubo,Praça da Paz,Jardim São Paulo,51,Masculino,Não
+324,2024-08-10 18:03:56.322887,Latrocínio,Avenida Central,Boa Vista,26,Masculino,Sim
+325,2024-10-04 18:03:56.322890,Roubo,Praça da Paz,Tamarineira,57,Feminino,Sim
+326,2024-09-21 18:03:56.322892,Latrocínio,Rua das Flores,Centro,37,Feminino,Não
+327,2024-09-07 18:03:56.322895,Furto,Parque Municipal,Madalena,50,Feminino,Sim
+328,2025-03-17 18:03:56.322898,Vandalismo,Escola Estadual,Graças,56,Feminino,Não
+329,2025-05-07 18:03:56.322901,Furto,Estação de Metrô,Graças,27,Não Informado,Não
+330,2024-09-18 18:03:56.322904,Sequestro,Estação de Metrô,Tamarineira,22,Não Informado,Sim
+331,2025-04-25 18:03:56.322907,Estupro,Estação de Metrô,Jardim São Paulo,22,Feminino,Sim
+332,2025-03-02 18:03:56.322910,Assalto à Mão Armada,Parque Municipal,Graças,40,Masculino,Não
+333,2025-05-01 18:03:56.322912,Latrocínio,Rua A,Centro,11,Feminino,Sim
+334,2024-08-05 18:03:56.322915,Assalto à Mão Armada,Rodovia BR-101,Imbiribeira,25,Feminino,Não
+335,2025-05-02 18:03:56.322918,Latrocínio,Centro Comercial,Afogados,18,Masculino,Não
+336,2024-06-25 18:03:56.322921,Homicídio,Posto de Gasolina,Afogados,47,Não Informado,Não
+337,2025-02-05 18:03:56.322923,Roubo,Avenida Central,Ibura,63,Feminino,Sim
+338,2024-11-11 18:03:56.322926,Sequestro,Rua A,Casa Forte,65,Feminino,Não
+339,2025-04-05 18:03:56.322929,Vandalismo,Escola Estadual,Boa Vista,54,Não Informado,Não
+340,2024-08-18 18:03:56.322932,Latrocínio,Avenida Central,Tamarineira,43,Não Informado,Não
+341,2025-01-30 18:03:56.322935,Assalto à Mão Armada,Estação de Metrô,Ibura,18,Masculino,Não
+342,2024-08-13 18:03:56.322937,Sequestro,Praça da Paz,Casa Forte,17,Não Informado,Não
+343,2024-08-05 18:03:56.322940,Tráfico de Drogas,Escola Estadual,Jardim São Paulo,16,Não Informado,Não
+344,2025-05-16 18:03:56.322943,Tráfico de Drogas,Avenida Central,Madalena,45,Não Informado,Não
+345,2024-07-23 18:03:56.322945,Furto,Estação de Metrô,Madalena,27,Masculino,Não
+346,2025-04-25 18:03:56.322948,Vandalismo,Avenida Central,Boa Vista,12,Não Informado,Não
+347,2024-11-03 18:03:56.322951,Homicídio,Praça da Paz,Graças,37,Não Informado,Não
+348,2024-07-04 18:03:56.322953,Assalto à Mão Armada,Estação de Metrô,Centro,79,Masculino,Não
+349,2024-08-11 18:03:56.322956,Roubo,Rodovia BR-101,Ibura,53,Não Informado,Sim
+350,2024-08-20 18:03:56.322959,Roubo,Rua A,Ibura,30,Não Informado,Não
+351,2024-09-11 18:03:56.322962,Assalto à Mão Armada,Rua das Flores,Tamarineira,37,Masculino,Não
+352,2024-12-26 18:03:56.322964,Estupro,Posto de Gasolina,Tamarineira,63,Feminino,Não
+353,2025-01-23 18:03:56.322967,Homicídio,Parque Municipal,Madalena,63,Masculino,Sim
+354,2025-02-21 18:03:56.322970,Sequestro,Posto de Gasolina,Madalena,74,Não Informado,Não
+355,2024-06-28 18:03:56.322973,Latrocínio,Escola Estadual,Imbiribeira,30,Não Informado,Sim
+356,2024-12-27 18:03:56.322976,Estupro,Posto de Gasolina,Imbiribeira,22,Não Informado,Não
+357,2025-02-03 18:03:56.322978,Latrocínio,Estação de Metrô,Graças,66,Masculino,Não
+358,2025-01-21 18:03:56.322981,Latrocínio,Rodovia BR-101,Imbiribeira,58,Não Informado,Sim
+359,2024-11-15 18:03:56.322984,Estupro,Rua das Flores,Centro,63,Não Informado,Não
+360,2025-03-30 18:03:56.322987,Furto,Rua A,Centro,19,Masculino,Sim
+361,2024-06-27 18:03:56.322989,Tráfico de Drogas,Rua A,Ibura,62,Feminino,Sim
+362,2024-07-10 18:03:56.322992,Latrocínio,Praça da Paz,Afogados,53,Feminino,Não
+363,2025-01-03 18:03:56.322995,Estupro,Parque Municipal,Centro,56,Não Informado,Não
+364,2024-10-14 18:03:56.322998,Estupro,Avenida Central,Casa Forte,62,Masculino,Não
+365,2024-12-26 18:03:56.323000,Violência Doméstica,Rodovia BR-101,Madalena,55,Não Informado,Não
+366,2025-04-29 18:03:56.323003,Furto,Avenida Central,Tamarineira,22,Masculino,Sim
+367,2025-06-01 18:03:56.323006,Vandalismo,Rua das Flores,Imbiribeira,46,Masculino,Sim
+368,2024-10-14 18:03:56.323009,Violência Doméstica,Posto de Gasolina,Ibura,33,Feminino,Não
+369,2024-07-22 18:03:56.323011,Violência Doméstica,Rua A,Boa Vista,11,Feminino,Sim
+370,2024-08-21 18:03:56.323014,Assalto à Mão Armada,Rua das Flores,Tamarineira,23,Masculino,Sim
+371,2025-04-15 18:03:56.323017,Tráfico de Drogas,Posto de Gasolina,Casa Forte,19,Não Informado,Não
+372,2025-04-29 18:03:56.323020,Estupro,Rua A,Imbiribeira,44,Feminino,Sim
+373,2024-09-03 18:03:56.323022,Tráfico de Drogas,Posto de Gasolina,Casa Forte,34,Não Informado,Sim
+374,2025-02-16 18:03:56.323025,Homicídio,Parque Municipal,Madalena,12,Feminino,Não
+375,2024-09-19 18:03:56.323027,Assalto à Mão Armada,Rodovia BR-101,Madalena,26,Feminino,Sim
+376,2025-01-21 18:03:56.323030,Vandalismo,Escola Estadual,Graças,21,Não Informado,Não
+377,2025-03-30 18:03:56.323033,Tráfico de Drogas,Rua das Flores,Ibura,63,Feminino,Sim
+378,2024-12-09 18:03:56.323036,Roubo,Rua das Flores,Tamarineira,33,Feminino,Não
+379,2025-05-01 18:03:56.323039,Latrocínio,Centro Comercial,Jardim São Paulo,38,Não Informado,Sim
+380,2025-01-31 18:03:56.323041,Homicídio,Estação de Metrô,Jardim São Paulo,52,Feminino,Sim
+381,2024-11-28 18:03:56.323044,Furto,Parque Municipal,Tamarineira,34,Feminino,Não
+382,2025-01-11 18:03:56.323047,Vandalismo,Parque Municipal,Boa Vista,69,Feminino,Não
+383,2025-03-17 18:03:56.323049,Homicídio,Avenida Central,Ibura,74,Não Informado,Não
+384,2024-10-24 18:03:56.323052,Latrocínio,Posto de Gasolina,Casa Forte,37,Masculino,Não
+385,2024-08-31 18:03:56.323055,Assalto à Mão Armada,Estação de Metrô,Boa Vista,25,Não Informado,Sim
+386,2024-06-10 18:03:56.323057,Latrocínio,Rodovia BR-101,Afogados,56,Masculino,Sim
+387,2025-01-02 18:03:56.323060,Violência Doméstica,Rodovia BR-101,Tamarineira,67,Feminino,Sim
+388,2024-07-27 18:03:56.323064,Latrocínio,Parque Municipal,Casa Forte,36,Masculino,Não
+389,2024-07-06 18:03:56.323067,Violência Doméstica,Rodovia BR-101,Jardim São Paulo,62,Não Informado,Sim
+390,2024-09-08 18:03:56.323069,Assalto à Mão Armada,Centro Comercial,Centro,51,Não Informado,Sim
+391,2025-06-01 18:03:56.323072,Sequestro,Rua das Flores,Graças,68,Feminino,Não
+392,2024-06-29 18:03:56.323075,Violência Doméstica,Praça da Paz,Jardim São Paulo,56,Masculino,Não
+393,2024-08-26 18:03:56.323078,Furto,Escola Estadual,Ibura,43,Feminino,Sim
+394,2025-01-03 18:03:56.323081,Latrocínio,Avenida Central,Madalena,46,Feminino,Não
+395,2024-07-01 18:03:56.323083,Latrocínio,Posto de Gasolina,Centro,15,Não Informado,Sim
+396,2025-04-13 18:03:56.323086,Furto,Escola Estadual,Graças,16,Masculino,Sim
+397,2025-03-29 18:03:56.323089,Roubo,Posto de Gasolina,Graças,34,Masculino,Não
+398,2025-01-21 18:03:56.323092,Estupro,Rua A,Afogados,42,Masculino,Sim
+399,2025-04-07 18:03:56.323094,Sequestro,Escola Estadual,Afogados,64,Masculino,Não
+400,2025-04-12 18:03:56.323097,Vandalismo,Praça da Paz,Imbiribeira,67,Feminino,Não
+401,2024-08-26 18:03:56.323100,Violência Doméstica,Parque Municipal,Jardim São Paulo,16,Feminino,Sim
+402,2025-03-18 18:03:56.323105,Furto,Centro Comercial,Jardim São Paulo,66,Não Informado,Sim
+403,2025-01-17 18:03:56.323107,Assalto à Mão Armada,Rua das Flores,Jardim São Paulo,21,Feminino,Sim
+404,2025-01-12 18:03:56.323110,Violência Doméstica,Rua das Flores,Imbiribeira,25,Feminino,Não
+405,2024-07-31 18:03:56.323113,Estupro,Centro Comercial,Boa Vista,52,Não Informado,Sim
+406,2025-02-18 18:03:56.323116,Assalto à Mão Armada,Estação de Metrô,Graças,16,Não Informado,Não
+407,2024-12-12 18:03:56.323118,Homicídio,Rua A,Centro,60,Não Informado,Não
+408,2025-02-21 18:03:56.323121,Latrocínio,Posto de Gasolina,Ibura,41,Feminino,Sim
+409,2024-06-19 18:03:56.323124,Homicídio,Praça da Paz,Graças,17,Feminino,Não
+410,2024-07-16 18:03:56.323127,Violência Doméstica,Rodovia BR-101,Afogados,54,Não Informado,Sim
+411,2025-01-21 18:03:56.323129,Estupro,Escola Estadual,Casa Forte,68,Não Informado,Sim
+412,2024-09-20 18:03:56.323132,Sequestro,Rua A,Madalena,13,Não Informado,Sim
+413,2024-09-28 18:03:56.323136,Violência Doméstica,Escola Estadual,Imbiribeira,76,Feminino,Sim
+414,2025-01-28 18:03:56.323138,Furto,Praça da Paz,Tamarineira,38,Feminino,Sim
+415,2025-05-10 18:03:56.323141,Tráfico de Drogas,Avenida Central,Casa Forte,38,Masculino,Sim
+416,2025-04-19 18:03:56.323144,Violência Doméstica,Avenida Central,Ibura,37,Feminino,Sim
+417,2024-07-16 18:03:56.323147,Latrocínio,Rua A,Jardim São Paulo,53,Feminino,Não
+418,2024-11-01 18:03:56.323150,Latrocínio,Parque Municipal,Afogados,13,Feminino,Sim
+419,2025-01-15 18:03:56.323152,Violência Doméstica,Praça da Paz,Afogados,18,Não Informado,Não
+420,2025-05-14 18:03:56.323155,Assalto à Mão Armada,Praça da Paz,Afogados,14,Feminino,Não
+421,2025-06-04 18:03:56.323158,Tráfico de Drogas,Centro Comercial,Jardim São Paulo,65,Não Informado,Não
+422,2024-12-17 18:03:56.323160,Furto,Parque Municipal,Tamarineira,59,Masculino,Sim
+423,2025-03-31 18:03:56.323163,Violência Doméstica,Posto de Gasolina,Imbiribeira,24,Masculino,Não
+424,2024-07-14 18:03:56.323166,Assalto à Mão Armada,Posto de Gasolina,Casa Forte,41,Não Informado,Não
+425,2025-01-22 18:03:56.323169,Latrocínio,Rodovia BR-101,Jardim São Paulo,37,Não Informado,Sim
+426,2025-03-15 18:03:56.323171,Latrocínio,Rua das Flores,Ibura,31,Não Informado,Sim
+427,2024-10-22 18:03:56.323174,Estupro,Avenida Central,Imbiribeira,26,Feminino,Não
+428,2024-08-27 18:03:56.323177,Violência Doméstica,Posto de Gasolina,Ibura,68,Masculino,Sim
+429,2024-06-09 18:03:56.323179,Tráfico de Drogas,Parque Municipal,Imbiribeira,66,Não Informado,Sim
+430,2024-10-30 18:03:56.323183,Roubo,Praça da Paz,Tamarineira,35,Feminino,Sim
+431,2024-08-22 18:03:56.323185,Tráfico de Drogas,Posto de Gasolina,Madalena,34,Masculino,Sim
+432,2025-06-01 18:03:56.323188,Latrocínio,Praça da Paz,Ibura,19,Feminino,Não
+433,2025-04-09 18:03:56.323191,Latrocínio,Posto de Gasolina,Jardim São Paulo,54,Masculino,Sim
+434,2025-04-28 18:03:56.323194,Homicídio,Avenida Central,Imbiribeira,20,Feminino,Sim
+435,2024-06-17 18:03:56.323196,Latrocínio,Escola Estadual,Afogados,62,Masculino,Sim
+436,2025-03-21 18:03:56.323199,Furto,Posto de Gasolina,Graças,77,Masculino,Não
+437,2024-08-30 18:03:56.323202,Vandalismo,Parque Municipal,Afogados,37,Feminino,Não
+438,2025-05-18 18:03:56.323205,Violência Doméstica,Posto de Gasolina,Boa Vista,74,Não Informado,Sim
+439,2024-11-28 18:03:56.323207,Tráfico de Drogas,Rua das Flores,Madalena,58,Masculino,Sim
+440,2024-08-11 18:03:56.323210,Vandalismo,Avenida Central,Madalena,56,Não Informado,Não
+441,2024-08-27 18:03:56.323213,Assalto à Mão Armada,Parque Municipal,Afogados,61,Feminino,Sim
+442,2025-03-22 18:03:56.323216,Roubo,Centro Comercial,Casa Forte,63,Não Informado,Sim
+443,2024-10-28 18:03:56.323218,Furto,Parque Municipal,Tamarineira,69,Não Informado,Não
+444,2025-04-01 18:03:56.323221,Tráfico de Drogas,Rua das Flores,Ibura,66,Não Informado,Sim
+445,2025-05-15 18:03:56.323224,Vandalismo,Escola Estadual,Jardim São Paulo,56,Não Informado,Sim
+446,2024-12-30 18:03:56.323226,Roubo,Avenida Central,Madalena,40,Não Informado,Não
+447,2024-12-01 18:03:56.323229,Homicídio,Centro Comercial,Afogados,55,Masculino,Não
+448,2025-05-16 18:03:56.323232,Furto,Rua das Flores,Afogados,35,Masculino,Sim
+449,2024-12-04 18:03:56.323235,Furto,Rua das Flores,Tamarineira,14,Masculino,Não
+450,2025-02-18 18:03:56.323237,Homicídio,Rua A,Tamarineira,61,Feminino,Sim
+451,2024-06-21 18:03:56.323240,Violência Doméstica,Avenida Central,Centro,63,Não Informado,Sim
+452,2025-01-29 18:03:56.323243,Homicídio,Parque Municipal,Centro,42,Masculino,Sim
+453,2024-06-29 18:03:56.323247,Furto,Praça da Paz,Casa Forte,59,Feminino,Não
+454,2025-04-14 18:03:56.323250,Furto,Escola Estadual,Casa Forte,47,Masculino,Não
+455,2024-12-06 18:03:56.323252,Vandalismo,Praça da Paz,Boa Vista,36,Masculino,Sim
+456,2024-08-23 18:03:56.323255,Latrocínio,Parque Municipal,Casa Forte,24,Não Informado,Sim
+457,2024-11-09 18:03:56.323258,Roubo,Parque Municipal,Imbiribeira,70,Feminino,Não
+458,2024-07-23 18:03:56.323262,Homicídio,Avenida Central,Tamarineira,30,Não Informado,Não
+459,2025-03-18 18:03:56.323266,Roubo,Parque Municipal,Jardim São Paulo,55,Não Informado,Não
+460,2025-02-04 18:03:56.323268,Homicídio,Rua A,Imbiribeira,78,Masculino,Sim
+461,2025-03-14 18:03:56.323271,Assalto à Mão Armada,Centro Comercial,Ibura,15,Não Informado,Não
+462,2025-03-07 18:03:56.323274,Furto,Parque Municipal,Afogados,47,Feminino,Não
+463,2024-11-06 18:03:56.323277,Latrocínio,Praça da Paz,Casa Forte,71,Não Informado,Sim
+464,2025-05-24 18:03:56.323279,Vandalismo,Parque Municipal,Afogados,71,Não Informado,Sim
+465,2025-03-06 18:03:56.323282,Latrocínio,Rua A,Madalena,55,Não Informado,Sim
+466,2024-12-17 18:03:56.323285,Latrocínio,Posto de Gasolina,Boa Vista,22,Masculino,Não
+467,2024-11-07 18:03:56.323288,Latrocínio,Posto de Gasolina,Madalena,12,Feminino,Sim
+468,2024-06-28 18:03:56.323291,Roubo,Rua das Flores,Boa Vista,15,Masculino,Sim
+469,2025-01-29 18:03:56.323294,Homicídio,Escola Estadual,Centro,17,Masculino,Sim
+470,2025-01-20 18:03:56.323297,Sequestro,Rodovia BR-101,Afogados,53,Masculino,Sim
+471,2025-03-16 18:03:56.323299,Assalto à Mão Armada,Centro Comercial,Boa Vista,42,Masculino,Não
+472,2024-06-11 18:03:56.323302,Tráfico de Drogas,Estação de Metrô,Graças,59,Masculino,Sim
+473,2025-04-11 18:03:56.323305,Latrocínio,Rua das Flores,Imbiribeira,20,Feminino,Não
+474,2024-11-22 18:03:56.323307,Violência Doméstica,Escola Estadual,Boa Vista,37,Não Informado,Não
+475,2025-05-17 18:03:56.323310,Roubo,Posto de Gasolina,Boa Vista,79,Masculino,Não
+476,2024-10-08 18:03:56.323314,Vandalismo,Praça da Paz,Imbiribeira,50,Masculino,Sim
+477,2025-02-12 18:03:56.323319,Tráfico de Drogas,Estação de Metrô,Afogados,25,Feminino,Não
+478,2025-02-23 18:03:56.323324,Sequestro,Escola Estadual,Afogados,77,Feminino,Sim
+479,2024-10-13 18:03:56.323329,Violência Doméstica,Escola Estadual,Imbiribeira,57,Não Informado,Sim
+480,2024-12-08 18:03:56.323335,Sequestro,Rua das Flores,Madalena,65,Feminino,Sim
+481,2024-12-31 18:03:56.323340,Tráfico de Drogas,Estação de Metrô,Graças,73,Não Informado,Não
+482,2025-02-09 18:03:56.323345,Latrocínio,Avenida Central,Jardim São Paulo,68,Masculino,Sim
+483,2025-02-11 18:03:56.323350,Violência Doméstica,Rodovia BR-101,Ibura,71,Masculino,Sim
+484,2025-05-24 18:03:56.323354,Sequestro,Avenida Central,Graças,20,Não Informado,Sim
+485,2024-07-03 18:03:56.323360,Vandalismo,Estação de Metrô,Afogados,27,Feminino,Não
+486,2025-02-27 18:03:56.323365,Homicídio,Avenida Central,Jardim São Paulo,28,Não Informado,Não
+487,2024-11-13 18:03:56.323370,Furto,Rua A,Centro,64,Feminino,Não
+488,2024-12-19 18:03:56.323375,Homicídio,Posto de Gasolina,Casa Forte,35,Masculino,Sim
+489,2025-01-14 18:03:56.323380,Tráfico de Drogas,Rua A,Boa Vista,15,Feminino,Não
+490,2025-05-01 18:03:56.323383,Roubo,Parque Municipal,Imbiribeira,13,Não Informado,Sim
+491,2025-01-14 18:03:56.323388,Furto,Avenida Central,Imbiribeira,38,Não Informado,Sim
+492,2024-12-08 18:03:56.323393,Assalto à Mão Armada,Parque Municipal,Boa Vista,68,Masculino,Não
+493,2024-07-12 18:03:56.323398,Vandalismo,Praça da Paz,Casa Forte,26,Feminino,Sim
+494,2024-09-18 18:03:56.323403,Assalto à Mão Armada,Centro Comercial,Ibura,52,Feminino,Não
+495,2024-11-13 18:03:56.323409,Violência Doméstica,Praça da Paz,Casa Forte,75,Feminino,Sim
+496,2024-06-23 18:03:56.323414,Furto,Estação de Metrô,Jardim São Paulo,43,Masculino,Não
+497,2024-09-04 18:03:56.323416,Assalto à Mão Armada,Escola Estadual,Casa Forte,17,Feminino,Sim
+498,2024-12-18 18:03:56.323419,Assalto à Mão Armada,Posto de Gasolina,Jardim São Paulo,22,Não Informado,Sim
+499,2025-05-22 18:03:56.323422,Sequestro,Avenida Central,Casa Forte,17,Feminino,Sim
+500,2025-04-07 18:03:56.323425,Homicídio,Rua das Flores,Ibura,74,Masculino,Sim
+501,2025-01-23 18:03:56.323427,Sequestro,Centro Comercial,Ibura,52,Feminino,Sim
+502,2025-03-06 18:03:56.323430,Furto,Rodovia BR-101,Afogados,48,Feminino,Não
+503,2024-08-12 18:03:56.323433,Furto,Rodovia BR-101,Boa Vista,68,Não Informado,Sim
+504,2025-01-21 18:03:56.323436,Tráfico de Drogas,Rodovia BR-101,Ibura,53,Feminino,Não
+505,2025-05-17 18:03:56.323438,Sequestro,Avenida Central,Jardim São Paulo,18,Não Informado,Não
+506,2025-04-11 18:03:56.323441,Estupro,Rodovia BR-101,Ibura,46,Não Informado,Não
+507,2024-08-04 18:03:56.323443,Homicídio,Rua A,Afogados,45,Masculino,Sim
+508,2024-10-26 18:03:56.323446,Furto,Centro Comercial,Imbiribeira,37,Não Informado,Sim
+509,2024-12-11 18:03:56.323449,Tráfico de Drogas,Rua A,Jardim São Paulo,51,Não Informado,Sim
+510,2024-12-27 18:03:56.323452,Sequestro,Escola Estadual,Afogados,52,Masculino,Não
+511,2024-10-25 18:03:56.323455,Homicídio,Centro Comercial,Madalena,51,Não Informado,Sim
+512,2024-07-30 18:03:56.323457,Sequestro,Rua A,Madalena,75,Masculino,Sim
+513,2024-09-17 18:03:56.323460,Assalto à Mão Armada,Centro Comercial,Centro,64,Feminino,Não
+514,2025-04-07 18:03:56.323463,Tráfico de Drogas,Escola Estadual,Casa Forte,57,Masculino,Não
+515,2024-11-20 18:03:56.323466,Homicídio,Parque Municipal,Boa Vista,31,Não Informado,Não
+516,2024-08-14 18:03:56.323468,Latrocínio,Avenida Central,Tamarineira,36,Masculino,Não
+517,2025-02-28 18:03:56.323471,Violência Doméstica,Avenida Central,Graças,76,Não Informado,Não
+518,2025-01-26 18:03:56.323474,Violência Doméstica,Rodovia BR-101,Afogados,22,Feminino,Não
+519,2025-05-14 18:03:56.323477,Homicídio,Praça da Paz,Imbiribeira,54,Masculino,Sim
+520,2024-06-08 18:03:56.323479,Sequestro,Rodovia BR-101,Graças,19,Feminino,Não
+521,2024-10-25 18:03:56.323482,Tráfico de Drogas,Estação de Metrô,Imbiribeira,18,Não Informado,Sim
+522,2025-06-05 18:03:56.323485,Violência Doméstica,Rua A,Graças,63,Não Informado,Sim
+523,2024-09-12 18:03:56.323488,Tráfico de Drogas,Centro Comercial,Afogados,36,Feminino,Sim
+524,2024-09-03 18:03:56.323491,Violência Doméstica,Praça da Paz,Tamarineira,43,Masculino,Não
+525,2024-06-19 18:03:56.323493,Assalto à Mão Armada,Escola Estadual,Graças,10,Masculino,Sim
+526,2024-06-27 18:03:56.323496,Sequestro,Estação de Metrô,Afogados,41,Não Informado,Não
+527,2025-02-25 18:03:56.323499,Assalto à Mão Armada,Escola Estadual,Ibura,76,Feminino,Não
+528,2024-12-01 18:03:56.323629,Violência Doméstica,Avenida Central,Tamarineira,29,Feminino,Sim
+529,2024-10-28 18:03:56.323638,Latrocínio,Avenida Central,Jardim São Paulo,44,Masculino,Não
+530,2025-05-01 18:03:56.323642,Latrocínio,Rodovia BR-101,Imbiribeira,26,Masculino,Sim
+531,2024-06-30 18:03:56.323644,Assalto à Mão Armada,Rua A,Madalena,27,Masculino,Sim
+532,2024-12-18 18:03:56.323647,Latrocínio,Praça da Paz,Casa Forte,54,Feminino,Não
+533,2024-07-21 18:03:56.323650,Violência Doméstica,Posto de Gasolina,Madalena,62,Masculino,Sim
+534,2024-12-27 18:03:56.323653,Homicídio,Estação de Metrô,Tamarineira,77,Masculino,Sim
+535,2024-07-01 18:03:56.323657,Assalto à Mão Armada,Estação de Metrô,Jardim São Paulo,74,Não Informado,Sim
+536,2025-04-03 18:03:56.323662,Roubo,Rodovia BR-101,Imbiribeira,10,Masculino,Não
+537,2025-01-03 18:03:56.323667,Sequestro,Avenida Central,Jardim São Paulo,67,Masculino,Sim
+538,2024-09-19 18:03:56.323672,Latrocínio,Rodovia BR-101,Graças,35,Feminino,Não
+539,2024-12-29 18:03:56.323678,Latrocínio,Centro Comercial,Imbiribeira,29,Feminino,Não
+540,2024-06-29 18:03:56.323682,Furto,Praça da Paz,Graças,19,Não Informado,Sim
+541,2024-11-08 18:03:56.323688,Estupro,Rua A,Afogados,68,Masculino,Sim
+542,2024-12-20 18:03:56.323693,Assalto à Mão Armada,Parque Municipal,Tamarineira,50,Não Informado,Não
+543,2024-11-11 18:03:56.323696,Vandalismo,Rua das Flores,Afogados,14,Feminino,Não
+544,2024-06-14 18:03:56.323698,Latrocínio,Rua das Flores,Centro,74,Não Informado,Sim
+545,2025-01-05 18:03:56.323701,Sequestro,Rodovia BR-101,Jardim São Paulo,26,Feminino,Sim
+546,2024-08-26 18:03:56.323704,Roubo,Centro Comercial,Graças,31,Não Informado,Não
+547,2025-04-01 18:03:56.323708,Latrocínio,Praça da Paz,Ibura,50,Não Informado,Não
+548,2025-02-27 18:03:56.323713,Roubo,Posto de Gasolina,Afogados,77,Masculino,Não
+549,2024-11-02 18:03:56.323720,Violência Doméstica,Rua das Flores,Centro,78,Não Informado,Não
+550,2024-06-30 18:03:56.323725,Violência Doméstica,Praça da Paz,Boa Vista,20,Masculino,Não
+551,2024-11-23 18:03:56.323730,Estupro,Rua A,Madalena,65,Masculino,Sim
+552,2024-06-24 18:03:56.323735,Homicídio,Escola Estadual,Imbiribeira,60,Masculino,Não
+553,2025-03-08 18:03:56.323741,Vandalismo,Centro Comercial,Centro,30,Masculino,Não
+554,2024-07-25 18:03:56.323746,Furto,Avenida Central,Tamarineira,35,Não Informado,Sim
+555,2024-08-18 18:03:56.323751,Estupro,Praça da Paz,Afogados,28,Feminino,Sim
+556,2025-01-02 18:03:56.323757,Tráfico de Drogas,Rua A,Tamarineira,69,Feminino,Não
+557,2024-11-10 18:03:56.323762,Furto,Posto de Gasolina,Madalena,56,Feminino,Não
+558,2024-08-29 18:03:56.323768,Assalto à Mão Armada,Parque Municipal,Ibura,35,Não Informado,Sim
+559,2025-06-05 18:03:56.323772,Sequestro,Avenida Central,Jardim São Paulo,49,Masculino,Não
+560,2025-01-01 18:03:56.323776,Tráfico de Drogas,Parque Municipal,Jardim São Paulo,14,Feminino,Não
+561,2025-01-10 18:03:56.323778,Tráfico de Drogas,Posto de Gasolina,Tamarineira,30,Não Informado,Sim
+562,2025-02-18 18:03:56.323781,Estupro,Rua A,Graças,13,Masculino,Não
+563,2024-10-28 18:03:56.323783,Homicídio,Rua das Flores,Ibura,32,Feminino,Sim
+564,2024-08-13 18:03:56.323786,Estupro,Parque Municipal,Jardim São Paulo,24,Masculino,Sim
+565,2024-07-30 18:03:56.323789,Assalto à Mão Armada,Avenida Central,Ibura,17,Feminino,Sim
+566,2024-07-05 18:03:56.323792,Latrocínio,Rodovia BR-101,Centro,50,Feminino,Sim
+567,2024-12-23 18:03:56.323794,Latrocínio,Estação de Metrô,Ibura,28,Feminino,Não
+568,2024-10-10 18:03:56.323797,Homicídio,Praça da Paz,Casa Forte,55,Masculino,Sim
+569,2024-10-22 18:03:56.323802,Assalto à Mão Armada,Rua das Flores,Madalena,37,Não Informado,Não
+570,2024-10-22 18:03:56.323805,Homicídio,Parque Municipal,Jardim São Paulo,77,Masculino,Não
+571,2024-06-25 18:03:56.323807,Roubo,Escola Estadual,Ibura,24,Feminino,Não
+572,2025-02-16 18:03:56.323810,Latrocínio,Praça da Paz,Tamarineira,46,Masculino,Não
+573,2024-09-17 18:03:56.323813,Tráfico de Drogas,Rodovia BR-101,Boa Vista,10,Não Informado,Não
+574,2024-10-06 18:03:56.323816,Vandalismo,Posto de Gasolina,Casa Forte,76,Masculino,Sim
+575,2025-03-11 18:03:56.323818,Sequestro,Estação de Metrô,Casa Forte,33,Não Informado,Sim
+576,2024-07-03 18:03:56.323822,Assalto à Mão Armada,Rua A,Graças,36,Não Informado,Sim
+577,2025-04-23 18:03:56.323824,Furto,Rodovia BR-101,Ibura,49,Masculino,Sim
+578,2025-01-11 18:03:56.323827,Homicídio,Rodovia BR-101,Graças,72,Feminino,Não
+579,2024-09-15 18:03:56.323829,Sequestro,Posto de Gasolina,Graças,70,Não Informado,Sim
+580,2024-07-01 18:03:56.323832,Furto,Centro Comercial,Boa Vista,45,Masculino,Não
+581,2024-07-16 18:03:56.323835,Sequestro,Posto de Gasolina,Centro,33,Não Informado,Não
+582,2024-07-23 18:03:56.323838,Vandalismo,Centro Comercial,Ibura,33,Feminino,Sim
+583,2024-12-16 18:03:56.323841,Furto,Centro Comercial,Afogados,13,Masculino,Sim
+584,2025-04-19 18:03:56.323843,Estupro,Rua das Flores,Jardim São Paulo,76,Masculino,Sim
+585,2025-02-05 18:03:56.323846,Violência Doméstica,Rua das Flores,Graças,43,Masculino,Sim
+586,2024-06-26 18:03:56.323849,Estupro,Avenida Central,Madalena,66,Feminino,Não
+587,2024-12-29 18:03:56.323852,Latrocínio,Parque Municipal,Imbiribeira,58,Não Informado,Não
+588,2025-02-10 18:03:56.323855,Violência Doméstica,Parque Municipal,Madalena,62,Masculino,Sim
+589,2025-02-24 18:03:56.323860,Estupro,Rua A,Boa Vista,32,Não Informado,Não
+590,2025-03-22 18:03:56.323865,Violência Doméstica,Parque Municipal,Boa Vista,78,Não Informado,Não
+591,2025-05-24 18:03:56.323870,Violência Doméstica,Rua das Flores,Tamarineira,62,Feminino,Não
+592,2025-05-13 18:03:56.323875,Tráfico de Drogas,Avenida Central,Centro,71,Masculino,Sim
+593,2025-01-31 18:03:56.323880,Homicídio,Avenida Central,Jardim São Paulo,50,Não Informado,Não
+594,2024-10-05 18:03:56.323891,Homicídio,Centro Comercial,Graças,66,Masculino,Sim
+595,2024-07-28 18:03:56.323898,Tráfico de Drogas,Posto de Gasolina,Madalena,69,Masculino,Sim
+596,2025-04-29 18:03:56.323903,Sequestro,Rua A,Imbiribeira,63,Feminino,Não
+597,2024-10-15 18:03:56.323908,Roubo,Centro Comercial,Boa Vista,79,Masculino,Não
+598,2024-11-05 18:03:56.323914,Sequestro,Posto de Gasolina,Boa Vista,66,Masculino,Sim
+599,2024-07-18 18:03:56.323919,Furto,Parque Municipal,Centro,19,Não Informado,Não
+600,2024-08-15 18:03:56.323924,Furto,Centro Comercial,Imbiribeira,49,Feminino,Não
+601,2025-02-26 18:03:56.323929,Violência Doméstica,Praça da Paz,Imbiribeira,16,Masculino,Sim
+602,2024-06-14 18:03:56.323935,Estupro,Parque Municipal,Centro,47,Não Informado,Sim
+603,2024-11-21 18:03:56.323940,Estupro,Posto de Gasolina,Boa Vista,70,Feminino,Sim
+604,2024-09-25 18:03:56.323946,Homicídio,Rua A,Jardim São Paulo,12,Feminino,Sim
+605,2024-11-13 18:03:56.323951,Assalto à Mão Armada,Posto de Gasolina,Ibura,60,Não Informado,Não
+606,2025-02-01 18:03:56.323956,Sequestro,Centro Comercial,Ibura,56,Não Informado,Não
+607,2025-03-22 18:03:56.323960,Latrocínio,Centro Comercial,Centro,77,Não Informado,Sim
+608,2024-07-05 18:03:56.323962,Vandalismo,Rodovia BR-101,Imbiribeira,47,Não Informado,Sim
+609,2024-06-18 18:03:56.323965,Estupro,Rua A,Graças,45,Não Informado,Sim
+610,2025-06-03 18:03:56.323968,Vandalismo,Escola Estadual,Centro,50,Masculino,Não
+611,2025-04-12 18:03:56.323970,Violência Doméstica,Parque Municipal,Jardim São Paulo,78,Masculino,Sim
+612,2024-10-31 18:03:56.323973,Vandalismo,Avenida Central,Centro,22,Feminino,Não
+613,2025-02-13 18:03:56.323976,Latrocínio,Rua A,Casa Forte,67,Masculino,Sim
+614,2025-03-07 18:03:56.323979,Tráfico de Drogas,Avenida Central,Madalena,59,Masculino,Sim
+615,2024-06-14 18:03:56.323982,Latrocínio,Rua A,Imbiribeira,39,Masculino,Sim
+616,2024-09-13 18:03:56.323984,Vandalismo,Rua A,Tamarineira,71,Não Informado,Não
+617,2024-10-11 18:03:56.323987,Latrocínio,Posto de Gasolina,Tamarineira,34,Feminino,Não
+618,2025-05-11 18:03:56.323990,Roubo,Rua A,Imbiribeira,36,Feminino,Não
+619,2024-08-24 18:03:56.323992,Violência Doméstica,Rodovia BR-101,Jardim São Paulo,60,Feminino,Sim
+620,2025-01-29 18:03:56.323996,Sequestro,Escola Estadual,Casa Forte,66,Feminino,Não
+621,2025-04-04 18:03:56.324001,Tráfico de Drogas,Centro Comercial,Casa Forte,56,Masculino,Não
+622,2024-10-15 18:03:56.324006,Estupro,Estação de Metrô,Boa Vista,48,Masculino,Sim
+623,2025-03-29 18:03:56.324012,Furto,Avenida Central,Madalena,25,Não Informado,Sim
+624,2024-10-11 18:03:56.324016,Sequestro,Centro Comercial,Ibura,31,Feminino,Não
+625,2024-06-29 18:03:56.324021,Furto,Estação de Metrô,Afogados,63,Masculino,Não
+626,2024-09-07 18:03:56.324027,Violência Doméstica,Escola Estadual,Jardim São Paulo,30,Masculino,Não
+627,2024-08-23 18:03:56.324032,Tráfico de Drogas,Escola Estadual,Afogados,25,Não Informado,Não
+628,2024-08-05 18:03:56.324034,Homicídio,Avenida Central,Afogados,68,Não Informado,Sim
+629,2024-12-25 18:03:56.324037,Estupro,Avenida Central,Imbiribeira,40,Não Informado,Sim
+630,2024-10-22 18:03:56.324043,Roubo,Escola Estadual,Tamarineira,51,Masculino,Sim
+631,2024-07-27 18:03:56.324046,Homicídio,Estação de Metrô,Tamarineira,41,Masculino,Não
+632,2024-09-20 18:03:56.324049,Violência Doméstica,Rua A,Ibura,68,Não Informado,Não
+633,2024-10-30 18:03:56.324052,Sequestro,Parque Municipal,Imbiribeira,43,Feminino,Sim
+634,2024-08-29 18:03:56.324055,Roubo,Praça da Paz,Afogados,18,Não Informado,Sim
+635,2024-10-20 18:03:56.324058,Latrocínio,Centro Comercial,Graças,20,Não Informado,Não
+636,2025-03-16 18:03:56.324061,Vandalismo,Posto de Gasolina,Tamarineira,19,Não Informado,Não
+637,2024-10-05 18:03:56.324064,Roubo,Centro Comercial,Jardim São Paulo,26,Não Informado,Sim
+638,2024-10-18 18:03:56.324067,Violência Doméstica,Posto de Gasolina,Jardim São Paulo,77,Masculino,Sim
+639,2025-01-24 18:03:56.324069,Assalto à Mão Armada,Estação de Metrô,Boa Vista,57,Feminino,Sim
+640,2025-01-30 18:03:56.324072,Vandalismo,Posto de Gasolina,Centro,61,Não Informado,Não
+641,2024-07-14 18:03:56.324075,Furto,Avenida Central,Graças,34,Feminino,Não
+642,2025-01-15 18:03:56.324078,Estupro,Parque Municipal,Tamarineira,30,Feminino,Não
+643,2024-09-12 18:03:56.324080,Furto,Parque Municipal,Casa Forte,74,Feminino,Não
+644,2024-09-30 18:03:56.324084,Roubo,Avenida Central,Tamarineira,72,Não Informado,Não
+645,2024-07-20 18:03:56.324086,Furto,Rodovia BR-101,Boa Vista,60,Masculino,Não
+646,2025-02-03 18:03:56.324089,Violência Doméstica,Estação de Metrô,Jardim São Paulo,45,Não Informado,Sim
+647,2025-01-16 18:03:56.324092,Latrocínio,Rodovia BR-101,Afogados,75,Feminino,Sim
+648,2024-10-23 18:03:56.324095,Sequestro,Rodovia BR-101,Casa Forte,24,Feminino,Não
+649,2025-04-27 18:03:56.324097,Estupro,Centro Comercial,Imbiribeira,48,Masculino,Sim
+650,2024-06-05 18:03:56.324100,Furto,Escola Estadual,Madalena,79,Não Informado,Não
+651,2025-01-10 18:03:56.324103,Furto,Centro Comercial,Afogados,10,Feminino,Sim
+652,2025-02-05 18:03:56.324105,Roubo,Escola Estadual,Madalena,32,Masculino,Não
+653,2025-01-17 18:03:56.324108,Sequestro,Praça da Paz,Graças,48,Feminino,Sim
+654,2024-12-16 18:03:56.324111,Homicídio,Posto de Gasolina,Centro,66,Masculino,Sim
+655,2024-12-24 18:03:56.324113,Furto,Escola Estadual,Casa Forte,43,Masculino,Não
+656,2024-09-02 18:03:56.324116,Violência Doméstica,Avenida Central,Ibura,50,Não Informado,Não
+657,2025-04-25 18:03:56.324119,Assalto à Mão Armada,Centro Comercial,Casa Forte,22,Feminino,Sim
+658,2025-03-27 18:03:56.324122,Estupro,Estação de Metrô,Tamarineira,79,Não Informado,Sim
+659,2025-03-20 18:03:56.324124,Furto,Posto de Gasolina,Jardim São Paulo,15,Feminino,Não
+660,2025-02-07 18:03:56.324127,Violência Doméstica,Praça da Paz,Tamarineira,61,Não Informado,Sim
+661,2024-11-21 18:03:56.324130,Violência Doméstica,Escola Estadual,Tamarineira,12,Feminino,Não
+662,2024-06-15 18:03:56.324132,Estupro,Praça da Paz,Graças,72,Não Informado,Não
+663,2025-03-19 18:03:56.324135,Homicídio,Estação de Metrô,Afogados,58,Masculino,Sim
+664,2024-06-09 18:03:56.324138,Violência Doméstica,Rodovia BR-101,Ibura,56,Feminino,Não
+665,2025-02-16 18:03:56.324141,Assalto à Mão Armada,Parque Municipal,Ibura,64,Feminino,Sim
+666,2025-05-04 18:03:56.324143,Violência Doméstica,Estação de Metrô,Tamarineira,73,Masculino,Sim
+667,2024-11-05 18:03:56.324146,Violência Doméstica,Rua das Flores,Madalena,74,Não Informado,Não
+668,2024-11-09 18:03:56.324149,Violência Doméstica,Estação de Metrô,Graças,76,Feminino,Sim
+669,2024-12-18 18:03:56.324151,Latrocínio,Praça da Paz,Tamarineira,24,Feminino,Não
+670,2024-09-01 18:03:56.324154,Latrocínio,Avenida Central,Centro,41,Não Informado,Não
+671,2024-10-10 18:03:56.324157,Homicídio,Centro Comercial,Jardim São Paulo,77,Masculino,Não
+672,2024-11-05 18:03:56.324159,Furto,Avenida Central,Afogados,27,Não Informado,Sim
+673,2025-05-05 18:03:56.324162,Violência Doméstica,Praça da Paz,Imbiribeira,52,Não Informado,Não
+674,2025-02-20 18:03:56.324165,Sequestro,Centro Comercial,Centro,44,Não Informado,Sim
+675,2024-11-02 18:03:56.324168,Furto,Rua das Flores,Madalena,67,Feminino,Não
+676,2024-11-18 18:03:56.324171,Homicídio,Parque Municipal,Casa Forte,42,Masculino,Não
+677,2024-08-10 18:03:56.324173,Tráfico de Drogas,Posto de Gasolina,Casa Forte,23,Masculino,Não
+678,2024-06-14 18:03:56.324176,Furto,Praça da Paz,Centro,43,Não Informado,Sim
+679,2025-05-26 18:03:56.324179,Furto,Escola Estadual,Tamarineira,70,Feminino,Sim
+680,2024-08-15 18:03:56.324182,Vandalismo,Praça da Paz,Imbiribeira,13,Não Informado,Não
+681,2024-11-23 18:03:56.324185,Roubo,Praça da Paz,Boa Vista,68,Feminino,Não
+682,2024-10-04 18:03:56.324188,Vandalismo,Centro Comercial,Boa Vista,38,Feminino,Sim
+683,2025-06-02 18:03:56.324190,Assalto à Mão Armada,Rua A,Madalena,15,Feminino,Sim
+684,2024-12-07 18:03:56.324193,Latrocínio,Estação de Metrô,Tamarineira,58,Feminino,Sim
+685,2025-01-04 18:03:56.324196,Latrocínio,Rua A,Ibura,49,Masculino,Não
+686,2024-11-18 18:03:56.324198,Roubo,Rua das Flores,Ibura,74,Feminino,Sim
+687,2024-11-03 18:03:56.324201,Estupro,Escola Estadual,Afogados,78,Feminino,Não
+688,2024-09-03 18:03:56.324204,Estupro,Parque Municipal,Imbiribeira,36,Não Informado,Sim
+689,2024-08-30 18:03:56.324207,Homicídio,Rodovia BR-101,Imbiribeira,15,Não Informado,Não
+690,2024-08-01 18:03:56.324210,Roubo,Rua das Flores,Casa Forte,22,Masculino,Não
+691,2025-02-13 18:03:56.324213,Furto,Rodovia BR-101,Graças,73,Não Informado,Não
+692,2024-09-29 18:03:56.324216,Estupro,Rodovia BR-101,Madalena,71,Feminino,Sim
+693,2025-02-13 18:03:56.324218,Violência Doméstica,Parque Municipal,Boa Vista,28,Não Informado,Sim
+694,2025-01-17 18:03:56.324221,Sequestro,Avenida Central,Madalena,52,Masculino,Sim
+695,2024-10-25 18:03:56.324224,Furto,Rua A,Ibura,29,Não Informado,Não
+696,2024-09-30 18:03:56.324227,Assalto à Mão Armada,Praça da Paz,Ibura,77,Não Informado,Não
+697,2025-05-22 18:03:56.324229,Violência Doméstica,Posto de Gasolina,Centro,53,Masculino,Sim
+698,2024-11-18 18:03:56.324232,Violência Doméstica,Rodovia BR-101,Afogados,32,Masculino,Não
+699,2024-12-15 18:03:56.324234,Roubo,Escola Estadual,Imbiribeira,11,Feminino,Não
+700,2024-06-28 18:03:56.324237,Homicídio,Rua das Flores,Jardim São Paulo,31,Não Informado,Não
+701,2024-06-23 18:03:56.324240,Assalto à Mão Armada,Avenida Central,Madalena,66,Feminino,Sim
+702,2024-11-10 18:03:56.324243,Estupro,Rodovia BR-101,Ibura,16,Não Informado,Não
+703,2025-03-13 18:03:56.324246,Roubo,Avenida Central,Graças,65,Não Informado,Sim
+704,2024-10-09 18:03:56.324248,Estupro,Avenida Central,Casa Forte,76,Feminino,Sim
+705,2025-04-01 18:03:56.324251,Roubo,Rodovia BR-101,Boa Vista,25,Não Informado,Sim
+706,2024-07-22 18:03:56.324254,Roubo,Centro Comercial,Afogados,60,Não Informado,Sim
+707,2024-09-05 18:03:56.324257,Roubo,Estação de Metrô,Graças,21,Não Informado,Sim
+708,2025-05-23 18:03:56.324260,Homicídio,Escola Estadual,Afogados,62,Masculino,Não
+709,2024-11-16 18:03:56.324262,Roubo,Praça da Paz,Centro,14,Feminino,Sim
+710,2024-08-06 18:03:56.324265,Tráfico de Drogas,Praça da Paz,Jardim São Paulo,36,Masculino,Sim
+711,2024-08-21 18:03:56.324268,Sequestro,Escola Estadual,Ibura,21,Feminino,Sim
+712,2024-07-01 18:03:56.324270,Estupro,Centro Comercial,Casa Forte,26,Feminino,Não
+713,2025-05-23 18:03:56.324273,Furto,Praça da Paz,Graças,15,Não Informado,Não
+714,2025-04-24 18:03:56.324276,Vandalismo,Avenida Central,Afogados,14,Feminino,Não
+715,2024-07-11 18:03:56.324279,Assalto à Mão Armada,Parque Municipal,Imbiribeira,66,Masculino,Não
+716,2024-10-29 18:03:56.324282,Latrocínio,Rua das Flores,Centro,37,Masculino,Sim
+717,2025-03-28 18:03:56.324285,Homicídio,Rua A,Imbiribeira,78,Masculino,Sim
+718,2024-10-12 18:03:56.324287,Furto,Praça da Paz,Casa Forte,68,Feminino,Não
+719,2025-03-04 18:03:56.324290,Violência Doméstica,Escola Estadual,Graças,42,Masculino,Não
+720,2025-05-11 18:03:56.324293,Tráfico de Drogas,Parque Municipal,Centro,71,Feminino,Não
+721,2025-01-23 18:03:56.324296,Latrocínio,Rodovia BR-101,Graças,59,Masculino,Não
+722,2024-11-23 18:03:56.324299,Vandalismo,Estação de Metrô,Ibura,28,Masculino,Sim
+723,2024-12-20 18:03:56.324301,Furto,Escola Estadual,Tamarineira,78,Feminino,Não
+724,2025-02-17 18:03:56.324304,Latrocínio,Avenida Central,Centro,75,Masculino,Não
+725,2024-10-16 18:03:56.324307,Furto,Estação de Metrô,Imbiribeira,56,Não Informado,Não
+726,2024-12-20 18:03:56.324310,Tráfico de Drogas,Rua das Flores,Casa Forte,48,Feminino,Não
+727,2024-12-15 18:03:56.324312,Vandalismo,Rua das Flores,Jardim São Paulo,77,Feminino,Não
+728,2024-11-23 18:03:56.324315,Violência Doméstica,Centro Comercial,Ibura,42,Feminino,Não
+729,2025-01-14 18:03:56.324318,Roubo,Posto de Gasolina,Tamarineira,22,Não Informado,Não
+730,2024-11-02 18:03:56.324321,Estupro,Centro Comercial,Jardim São Paulo,63,Feminino,Sim
+731,2025-01-27 18:03:56.324324,Violência Doméstica,Parque Municipal,Boa Vista,16,Masculino,Sim
+732,2025-04-25 18:03:56.324327,Roubo,Estação de Metrô,Ibura,23,Masculino,Sim
+733,2024-10-08 18:03:56.324329,Homicídio,Posto de Gasolina,Casa Forte,28,Masculino,Sim
+734,2025-05-27 18:03:56.324332,Sequestro,Rodovia BR-101,Afogados,63,Feminino,Sim
+735,2024-09-02 18:03:56.324335,Assalto à Mão Armada,Avenida Central,Centro,29,Masculino,Sim
+736,2025-05-10 18:03:56.324337,Assalto à Mão Armada,Estação de Metrô,Graças,38,Feminino,Não
+737,2024-12-08 18:03:56.324340,Estupro,Centro Comercial,Casa Forte,33,Masculino,Não
+738,2025-02-11 18:03:56.324343,Vandalismo,Rua A,Centro,72,Não Informado,Sim
+739,2024-07-08 18:03:56.324345,Tráfico de Drogas,Posto de Gasolina,Jardim São Paulo,66,Não Informado,Não
+740,2025-05-01 18:03:56.324348,Vandalismo,Posto de Gasolina,Graças,17,Não Informado,Sim
+741,2024-07-07 18:03:56.324351,Tráfico de Drogas,Avenida Central,Madalena,71,Não Informado,Não
+742,2025-05-16 18:03:56.324354,Vandalismo,Praça da Paz,Imbiribeira,38,Feminino,Não
+743,2025-05-21 18:03:56.324356,Sequestro,Rua das Flores,Boa Vista,26,Masculino,Não
+744,2025-01-30 18:03:56.324359,Homicídio,Rua das Flores,Ibura,75,Não Informado,Não
+745,2025-02-23 18:03:56.324362,Homicídio,Rua A,Casa Forte,15,Feminino,Não
+746,2025-05-26 18:03:56.324365,Roubo,Parque Municipal,Boa Vista,67,Não Informado,Não
+747,2024-07-22 18:03:56.324368,Latrocínio,Parque Municipal,Afogados,78,Não Informado,Sim
+748,2025-03-19 18:03:56.324370,Homicídio,Rodovia BR-101,Centro,37,Feminino,Sim
+749,2025-02-03 18:03:56.324373,Homicídio,Estação de Metrô,Centro,71,Feminino,Não
+750,2025-04-02 18:03:56.324376,Violência Doméstica,Escola Estadual,Casa Forte,50,Masculino,Sim
+751,2024-10-06 18:03:56.324378,Violência Doméstica,Praça da Paz,Tamarineira,78,Masculino,Não
+752,2024-06-28 18:03:56.324381,Roubo,Centro Comercial,Tamarineira,50,Não Informado,Sim
+753,2025-04-08 18:03:56.324384,Latrocínio,Escola Estadual,Madalena,58,Não Informado,Não
+754,2024-08-21 18:03:56.324387,Estupro,Escola Estadual,Imbiribeira,58,Masculino,Sim
+755,2025-02-14 18:03:56.324389,Violência Doméstica,Posto de Gasolina,Graças,12,Masculino,Não
+756,2024-10-10 18:03:56.324392,Estupro,Rua A,Afogados,19,Feminino,Sim
+757,2024-06-12 18:03:56.324395,Furto,Rua das Flores,Boa Vista,44,Masculino,Não
+758,2025-01-25 18:03:56.324398,Violência Doméstica,Rodovia BR-101,Tamarineira,11,Masculino,Sim
+759,2024-11-29 18:03:56.324400,Sequestro,Parque Municipal,Madalena,33,Não Informado,Não
+760,2025-03-12 18:03:56.324403,Latrocínio,Rua A,Madalena,47,Masculino,Não
+761,2024-07-30 18:03:56.324405,Roubo,Posto de Gasolina,Casa Forte,31,Não Informado,Não
+762,2024-07-30 18:03:56.324411,Furto,Centro Comercial,Afogados,35,Masculino,Sim
+763,2025-04-08 18:03:56.324414,Latrocínio,Rodovia BR-101,Jardim São Paulo,52,Feminino,Sim
+764,2025-03-14 18:03:56.324417,Sequestro,Posto de Gasolina,Graças,64,Masculino,Sim
+765,2024-12-28 18:03:56.324420,Latrocínio,Rua das Flores,Imbiribeira,48,Masculino,Não
+766,2025-04-11 18:03:56.324423,Sequestro,Rua das Flores,Ibura,38,Masculino,Sim
+767,2024-08-13 18:03:56.324425,Sequestro,Rua das Flores,Casa Forte,29,Não Informado,Não
+768,2025-05-23 18:03:56.324428,Estupro,Rua A,Graças,50,Feminino,Sim
+769,2024-12-28 18:03:56.324431,Vandalismo,Rua A,Ibura,63,Masculino,Sim
+770,2024-08-15 18:03:56.324434,Furto,Parque Municipal,Ibura,29,Não Informado,Sim
+771,2024-06-24 18:03:56.324436,Latrocínio,Parque Municipal,Afogados,28,Feminino,Sim
+772,2024-11-25 18:03:56.324439,Tráfico de Drogas,Centro Comercial,Afogados,75,Não Informado,Não
+773,2024-11-14 18:03:56.324442,Furto,Rodovia BR-101,Boa Vista,39,Não Informado,Sim
+774,2025-02-24 18:03:56.324445,Vandalismo,Avenida Central,Madalena,62,Feminino,Sim
+775,2025-04-28 18:03:56.324447,Furto,Avenida Central,Graças,43,Masculino,Não
+776,2024-08-06 18:03:56.324450,Homicídio,Posto de Gasolina,Casa Forte,31,Não Informado,Não
+777,2024-06-17 18:03:56.324453,Tráfico de Drogas,Rua das Flores,Centro,76,Não Informado,Sim
+778,2024-07-19 18:03:56.324456,Vandalismo,Rodovia BR-101,Casa Forte,15,Masculino,Sim
+779,2025-02-01 18:03:56.324459,Estupro,Escola Estadual,Boa Vista,36,Masculino,Não
+780,2025-04-14 18:03:56.324461,Latrocínio,Rua A,Imbiribeira,19,Feminino,Não
+781,2024-06-14 18:03:56.324464,Assalto à Mão Armada,Estação de Metrô,Madalena,57,Feminino,Não
+782,2025-01-02 18:03:56.324466,Vandalismo,Praça da Paz,Centro,79,Feminino,Sim
+783,2024-06-20 18:03:56.324469,Roubo,Centro Comercial,Tamarineira,68,Masculino,Sim
+784,2024-08-02 18:03:56.324472,Latrocínio,Rua das Flores,Imbiribeira,68,Não Informado,Sim
+785,2025-04-05 18:03:56.324475,Vandalismo,Rua das Flores,Afogados,11,Não Informado,Não
+786,2024-08-20 18:03:56.324477,Homicídio,Rua das Flores,Ibura,38,Feminino,Não
+787,2025-05-15 18:03:56.324480,Assalto à Mão Armada,Rua A,Tamarineira,77,Masculino,Não
+788,2024-12-10 18:03:56.324483,Homicídio,Rua A,Casa Forte,74,Não Informado,Sim
+789,2024-09-06 18:03:56.324486,Assalto à Mão Armada,Praça da Paz,Casa Forte,35,Feminino,Não
+790,2024-10-29 18:03:56.324488,Roubo,Escola Estadual,Afogados,19,Não Informado,Sim
+791,2024-07-02 18:03:56.324491,Latrocínio,Rodovia BR-101,Boa Vista,62,Não Informado,Não
+792,2024-11-28 18:03:56.324494,Estupro,Rua das Flores,Graças,68,Masculino,Sim
+793,2025-05-01 18:03:56.324497,Homicídio,Avenida Central,Tamarineira,31,Masculino,Sim
+794,2024-09-19 18:03:56.324499,Homicídio,Parque Municipal,Tamarineira,60,Não Informado,Não
+795,2024-07-09 18:03:56.324503,Sequestro,Avenida Central,Jardim São Paulo,57,Feminino,Sim
+796,2024-12-13 18:03:56.324506,Assalto à Mão Armada,Posto de Gasolina,Imbiribeira,30,Masculino,Não
+797,2025-05-30 18:03:56.324509,Violência Doméstica,Avenida Central,Madalena,31,Não Informado,Sim
+798,2024-11-02 18:03:56.324512,Latrocínio,Posto de Gasolina,Imbiribeira,39,Masculino,Não
+799,2024-09-28 18:03:56.324515,Assalto à Mão Armada,Estação de Metrô,Graças,34,Masculino,Não
+800,2025-04-12 18:03:56.324518,Sequestro,Parque Municipal,Casa Forte,37,Masculino,Sim
+801,2024-10-27 18:03:56.324520,Furto,Avenida Central,Casa Forte,74,Não Informado,Não
+802,2024-12-02 18:03:56.324523,Assalto à Mão Armada,Estação de Metrô,Casa Forte,54,Feminino,Sim
+803,2024-07-15 18:03:56.324526,Estupro,Centro Comercial,Jardim São Paulo,77,Feminino,Não
+804,2024-10-13 18:03:56.324528,Latrocínio,Rodovia BR-101,Casa Forte,16,Feminino,Não
+805,2024-06-08 18:03:56.324531,Sequestro,Estação de Metrô,Graças,58,Masculino,Não
+806,2025-03-19 18:03:56.324534,Furto,Rodovia BR-101,Afogados,18,Não Informado,Não
+807,2024-10-26 18:03:56.324537,Tráfico de Drogas,Avenida Central,Madalena,45,Masculino,Sim
+808,2025-03-07 18:03:56.324539,Sequestro,Escola Estadual,Graças,10,Feminino,Não
+809,2024-09-11 18:03:56.324542,Tráfico de Drogas,Estação de Metrô,Madalena,19,Feminino,Não
+810,2024-07-07 18:03:56.324545,Latrocínio,Parque Municipal,Graças,45,Não Informado,Sim
+811,2025-01-18 18:03:56.324548,Homicídio,Avenida Central,Casa Forte,55,Masculino,Sim
+812,2024-07-25 18:03:56.324550,Sequestro,Rua das Flores,Afogados,41,Feminino,Sim
+813,2024-09-03 18:03:56.324553,Roubo,Rua A,Tamarineira,41,Não Informado,Sim
+814,2024-10-01 18:03:56.324556,Tráfico de Drogas,Estação de Metrô,Imbiribeira,15,Masculino,Sim
+815,2024-10-10 18:03:56.324558,Estupro,Parque Municipal,Ibura,57,Masculino,Sim
+816,2024-10-25 18:03:56.324561,Roubo,Centro Comercial,Afogados,47,Feminino,Não
+817,2024-08-06 18:03:56.324564,Vandalismo,Rua das Flores,Tamarineira,26,Feminino,Sim
+818,2025-01-19 18:03:56.324567,Vandalismo,Centro Comercial,Boa Vista,36,Masculino,Não
+819,2024-12-22 18:03:56.324570,Furto,Avenida Central,Graças,63,Masculino,Sim
+820,2025-01-31 18:03:56.324572,Homicídio,Rua A,Boa Vista,59,Feminino,Não
+821,2025-04-22 18:03:56.324575,Latrocínio,Estação de Metrô,Tamarineira,44,Masculino,Não
+822,2025-01-14 18:03:56.324578,Sequestro,Estação de Metrô,Afogados,34,Feminino,Não
+823,2024-10-18 18:03:56.324580,Violência Doméstica,Escola Estadual,Graças,37,Masculino,Sim
+824,2025-02-01 18:03:56.324583,Estupro,Escola Estadual,Ibura,24,Feminino,Sim
+825,2024-10-11 18:03:56.324586,Tráfico de Drogas,Avenida Central,Casa Forte,13,Não Informado,Sim
+826,2024-08-18 18:03:56.324589,Latrocínio,Avenida Central,Graças,36,Feminino,Sim
+827,2024-07-28 18:03:56.324591,Roubo,Rua A,Graças,35,Feminino,Não
+828,2024-06-28 18:03:56.324594,Vandalismo,Escola Estadual,Afogados,28,Não Informado,Sim
+829,2024-11-23 18:03:56.324597,Estupro,Parque Municipal,Afogados,26,Masculino,Não
+830,2024-12-15 18:03:56.324600,Violência Doméstica,Parque Municipal,Tamarineira,52,Não Informado,Não
+831,2025-05-22 18:03:56.324603,Sequestro,Rua A,Centro,50,Feminino,Sim
+832,2024-09-25 18:03:56.324606,Furto,Parque Municipal,Graças,51,Masculino,Sim
+833,2024-12-21 18:03:56.324609,Violência Doméstica,Posto de Gasolina,Imbiribeira,59,Não Informado,Sim
+834,2025-03-04 18:03:56.324611,Estupro,Rodovia BR-101,Graças,49,Masculino,Não
+835,2024-09-29 18:03:56.324614,Violência Doméstica,Rua A,Tamarineira,48,Masculino,Sim
+836,2025-02-17 18:03:56.324617,Estupro,Rua A,Madalena,32,Não Informado,Não
+837,2024-12-06 18:03:56.324619,Estupro,Praça da Paz,Boa Vista,61,Masculino,Sim
+838,2025-01-24 18:03:56.324622,Assalto à Mão Armada,Rua das Flores,Casa Forte,56,Não Informado,Não
+839,2024-12-13 18:03:56.324625,Tráfico de Drogas,Rua das Flores,Centro,72,Feminino,Sim
+840,2025-01-13 18:03:56.324627,Vandalismo,Posto de Gasolina,Ibura,78,Masculino,Sim
+841,2024-08-04 18:03:56.324630,Assalto à Mão Armada,Escola Estadual,Ibura,52,Feminino,Não
+842,2024-06-11 18:03:56.324633,Sequestro,Avenida Central,Ibura,57,Feminino,Sim
+843,2025-01-15 18:03:56.324636,Assalto à Mão Armada,Avenida Central,Afogados,43,Masculino,Sim
+844,2024-08-25 18:03:56.324638,Homicídio,Centro Comercial,Ibura,49,Não Informado,Sim
+845,2025-05-31 18:03:56.324641,Homicídio,Posto de Gasolina,Casa Forte,70,Masculino,Sim
+846,2024-09-14 18:03:56.324644,Vandalismo,Rua A,Boa Vista,59,Feminino,Sim
+847,2025-02-28 18:03:56.324646,Violência Doméstica,Posto de Gasolina,Ibura,76,Feminino,Sim
+848,2025-04-23 18:03:56.324649,Tráfico de Drogas,Posto de Gasolina,Graças,71,Não Informado,Sim
+849,2025-02-02 18:03:56.324652,Vandalismo,Posto de Gasolina,Graças,67,Masculino,Não
+850,2024-11-09 18:03:56.324655,Estupro,Rua das Flores,Afogados,42,Feminino,Não
+851,2024-09-28 18:03:56.324657,Roubo,Posto de Gasolina,Casa Forte,25,Feminino,Sim
+852,2024-08-25 18:03:56.324660,Tráfico de Drogas,Rodovia BR-101,Boa Vista,57,Feminino,Sim
+853,2025-02-02 18:03:56.324663,Tráfico de Drogas,Avenida Central,Centro,19,Não Informado,Sim
+854,2024-06-17 18:03:56.324666,Estupro,Centro Comercial,Tamarineira,47,Feminino,Não
+855,2024-10-05 18:03:56.324668,Estupro,Rodovia BR-101,Boa Vista,28,Feminino,Não
+856,2024-07-10 18:03:56.324671,Furto,Centro Comercial,Tamarineira,45,Masculino,Sim
+857,2024-06-06 18:03:56.324674,Vandalismo,Praça da Paz,Madalena,68,Masculino,Não
+858,2024-09-27 18:03:56.324676,Estupro,Centro Comercial,Tamarineira,72,Feminino,Sim
+859,2024-10-19 18:03:56.324679,Homicídio,Avenida Central,Imbiribeira,55,Feminino,Sim
+860,2025-05-28 18:03:56.324682,Sequestro,Avenida Central,Graças,12,Masculino,Sim
+861,2025-04-19 18:03:56.324684,Roubo,Posto de Gasolina,Casa Forte,74,Não Informado,Sim
+862,2025-01-06 18:03:56.324690,Vandalismo,Estação de Metrô,Jardim São Paulo,17,Não Informado,Não
+863,2025-02-12 18:03:56.324692,Latrocínio,Praça da Paz,Afogados,60,Não Informado,Não
+864,2024-11-10 18:03:56.324695,Homicídio,Rua A,Imbiribeira,15,Não Informado,Sim
+865,2024-06-16 18:03:56.324698,Violência Doméstica,Parque Municipal,Tamarineira,48,Não Informado,Não
+866,2025-02-01 18:03:56.324701,Estupro,Centro Comercial,Ibura,69,Não Informado,Não
+867,2024-12-31 18:03:56.324703,Latrocínio,Estação de Metrô,Casa Forte,37,Não Informado,Sim
+868,2024-07-01 18:03:56.324706,Estupro,Posto de Gasolina,Imbiribeira,63,Não Informado,Não
+869,2024-08-12 18:03:56.324709,Tráfico de Drogas,Rua das Flores,Afogados,46,Masculino,Sim
+870,2024-11-29 18:03:56.324713,Homicídio,Rua A,Graças,18,Não Informado,Sim
+871,2024-10-06 18:03:56.324715,Tráfico de Drogas,Escola Estadual,Casa Forte,65,Não Informado,Sim
+872,2024-08-26 18:03:56.324718,Furto,Estação de Metrô,Afogados,68,Não Informado,Sim
+873,2024-09-07 18:03:56.324721,Tráfico de Drogas,Rua das Flores,Madalena,11,Feminino,Não
+874,2024-12-11 18:03:56.324723,Furto,Praça da Paz,Madalena,70,Masculino,Sim
+875,2024-10-31 18:03:56.324727,Furto,Posto de Gasolina,Afogados,67,Masculino,Não
+876,2024-08-28 18:03:56.324729,Latrocínio,Rua A,Imbiribeira,69,Masculino,Sim
+877,2024-12-18 18:03:56.324732,Estupro,Rua A,Casa Forte,49,Não Informado,Sim
+878,2024-12-07 18:03:56.324735,Violência Doméstica,Rua A,Imbiribeira,45,Não Informado,Não
+879,2024-06-11 18:03:56.324738,Tráfico de Drogas,Praça da Paz,Centro,46,Feminino,Sim
+880,2024-10-16 18:03:56.324741,Homicídio,Centro Comercial,Tamarineira,27,Masculino,Não
+881,2025-01-18 18:03:56.324744,Furto,Escola Estadual,Centro,72,Não Informado,Não
+882,2024-12-31 18:03:56.324749,Estupro,Praça da Paz,Madalena,31,Masculino,Sim
+883,2025-01-28 18:03:56.324754,Roubo,Parque Municipal,Graças,20,Feminino,Sim
+884,2025-02-07 18:03:56.324759,Vandalismo,Escola Estadual,Boa Vista,67,Feminino,Sim
+885,2025-04-05 18:03:56.324764,Latrocínio,Avenida Central,Tamarineira,66,Feminino,Sim
+886,2025-02-27 18:03:56.324769,Violência Doméstica,Posto de Gasolina,Madalena,13,Masculino,Sim
+887,2024-12-26 18:03:56.324774,Assalto à Mão Armada,Praça da Paz,Imbiribeira,16,Não Informado,Sim
+888,2025-04-05 18:03:56.324779,Latrocínio,Rua das Flores,Imbiribeira,70,Não Informado,Não
+889,2024-09-04 18:03:56.324782,Roubo,Escola Estadual,Imbiribeira,63,Feminino,Não
+890,2024-06-17 18:03:56.324786,Vandalismo,Parque Municipal,Graças,77,Não Informado,Sim
+891,2025-03-03 18:03:56.324789,Roubo,Avenida Central,Centro,10,Feminino,Não
+892,2025-02-27 18:03:56.324792,Tráfico de Drogas,Centro Comercial,Boa Vista,64,Masculino,Não
+893,2025-02-15 18:03:56.324794,Furto,Rua das Flores,Imbiribeira,12,Feminino,Sim
+894,2024-10-01 18:03:56.324797,Violência Doméstica,Escola Estadual,Jardim São Paulo,47,Masculino,Sim
+895,2025-01-15 18:03:56.324800,Sequestro,Posto de Gasolina,Tamarineira,10,Feminino,Não
+896,2024-08-08 18:03:56.324802,Furto,Rua das Flores,Casa Forte,47,Não Informado,Sim
+897,2024-09-10 18:03:56.324805,Sequestro,Avenida Central,Jardim São Paulo,38,Não Informado,Não
+898,2024-08-04 18:03:56.324808,Vandalismo,Rua das Flores,Boa Vista,14,Feminino,Sim
+899,2025-01-12 18:03:56.324813,Estupro,Rodovia BR-101,Graças,30,Não Informado,Não
+900,2025-04-15 18:03:56.324818,Assalto à Mão Armada,Estação de Metrô,Boa Vista,76,Não Informado,Não
+901,2025-02-26 18:03:56.324823,Homicídio,Centro Comercial,Casa Forte,56,Não Informado,Não
+902,2025-01-05 18:03:56.324828,Furto,Avenida Central,Tamarineira,44,Masculino,Não
+903,2025-02-09 18:03:56.324833,Violência Doméstica,Rua das Flores,Casa Forte,77,Não Informado,Sim
+904,2024-12-03 18:03:56.324838,Roubo,Estação de Metrô,Afogados,78,Masculino,Sim
+905,2025-03-06 18:03:56.324843,Violência Doméstica,Estação de Metrô,Tamarineira,10,Feminino,Não
+906,2025-01-02 18:03:56.324848,Vandalismo,Rua das Flores,Boa Vista,77,Não Informado,Não
+907,2025-05-29 18:03:56.324853,Sequestro,Posto de Gasolina,Imbiribeira,21,Não Informado,Sim
+908,2024-06-08 18:03:56.324859,Roubo,Rodovia BR-101,Boa Vista,69,Não Informado,Sim
+909,2024-09-05 18:03:56.324870,Homicídio,Praça da Paz,Boa Vista,36,Feminino,Não
+910,2025-04-02 18:03:56.324873,Homicídio,Rodovia BR-101,Tamarineira,65,Masculino,Não
+911,2025-01-16 18:03:56.324876,Furto,Rua das Flores,Afogados,32,Masculino,Não
+912,2025-05-13 18:03:56.324878,Vandalismo,Centro Comercial,Boa Vista,34,Não Informado,Não
+913,2025-05-09 18:03:56.324881,Estupro,Praça da Paz,Jardim São Paulo,30,Feminino,Não
+914,2024-08-26 18:03:56.324883,Vandalismo,Avenida Central,Madalena,70,Feminino,Sim
+915,2025-01-07 18:03:56.324886,Sequestro,Rodovia BR-101,Ibura,72,Feminino,Não
+916,2024-06-13 18:03:56.324889,Violência Doméstica,Rua das Flores,Ibura,61,Feminino,Sim
+917,2025-04-02 18:03:56.324891,Homicídio,Rodovia BR-101,Boa Vista,34,Feminino,Sim
+918,2024-07-14 18:03:56.324894,Violência Doméstica,Praça da Paz,Jardim São Paulo,64,Masculino,Sim
+919,2024-09-27 18:03:56.324897,Violência Doméstica,Parque Municipal,Imbiribeira,55,Masculino,Não
+920,2025-04-14 18:03:56.324900,Violência Doméstica,Escola Estadual,Graças,41,Masculino,Sim
+921,2025-05-30 18:03:56.324902,Homicídio,Rodovia BR-101,Graças,64,Não Informado,Sim
+922,2024-08-16 18:03:56.324905,Latrocínio,Avenida Central,Tamarineira,14,Feminino,Sim
+923,2025-01-11 18:03:56.324908,Tráfico de Drogas,Avenida Central,Ibura,45,Não Informado,Sim
+924,2024-10-08 18:03:56.324910,Sequestro,Rua A,Boa Vista,58,Feminino,Não
+925,2024-10-03 18:03:56.324913,Latrocínio,Rodovia BR-101,Graças,67,Masculino,Não
+926,2024-10-23 18:03:56.324915,Sequestro,Escola Estadual,Boa Vista,48,Não Informado,Sim
+927,2024-12-13 18:03:56.324918,Roubo,Posto de Gasolina,Tamarineira,70,Masculino,Sim
+928,2025-03-03 18:03:56.324921,Vandalismo,Estação de Metrô,Ibura,18,Feminino,Não
+929,2025-05-10 18:03:56.324923,Vandalismo,Escola Estadual,Casa Forte,15,Feminino,Não
+930,2025-01-27 18:03:56.324927,Assalto à Mão Armada,Estação de Metrô,Madalena,44,Feminino,Não
+931,2024-10-04 18:03:56.324930,Vandalismo,Estação de Metrô,Madalena,48,Masculino,Sim
+932,2025-04-08 18:03:56.324933,Homicídio,Parque Municipal,Graças,31,Feminino,Não
+933,2025-05-03 18:03:56.324935,Estupro,Rua A,Madalena,50,Masculino,Sim
+934,2024-11-12 18:03:56.324938,Furto,Escola Estadual,Casa Forte,14,Não Informado,Sim
+935,2024-09-27 18:03:56.324941,Assalto à Mão Armada,Escola Estadual,Boa Vista,51,Feminino,Não
+936,2025-04-29 18:03:56.324944,Furto,Parque Municipal,Tamarineira,76,Feminino,Sim
+937,2024-08-14 18:03:56.324946,Sequestro,Rodovia BR-101,Casa Forte,39,Feminino,Não
+938,2024-07-18 18:03:56.324949,Furto,Rodovia BR-101,Tamarineira,66,Não Informado,Sim
+939,2024-06-19 18:03:56.324952,Furto,Rodovia BR-101,Tamarineira,38,Feminino,Não
+940,2025-05-09 18:03:56.324954,Assalto à Mão Armada,Centro Comercial,Ibura,46,Masculino,Sim
+941,2025-03-20 18:03:56.324957,Roubo,Estação de Metrô,Boa Vista,22,Masculino,Sim
+942,2025-03-21 18:03:56.324960,Violência Doméstica,Centro Comercial,Jardim São Paulo,41,Feminino,Não
+943,2024-08-21 18:03:56.324962,Vandalismo,Rua A,Madalena,55,Feminino,Não
+944,2025-01-01 18:03:56.324965,Vandalismo,Parque Municipal,Jardim São Paulo,32,Não Informado,Não
+945,2025-04-23 18:03:56.324968,Homicídio,Escola Estadual,Ibura,54,Não Informado,Não
+946,2025-01-29 18:03:56.324970,Assalto à Mão Armada,Estação de Metrô,Tamarineira,26,Não Informado,Sim
+947,2025-04-06 18:03:56.324973,Homicídio,Centro Comercial,Graças,75,Feminino,Não
+948,2024-08-24 18:03:56.324976,Estupro,Centro Comercial,Madalena,15,Não Informado,Não
+949,2024-11-04 18:03:56.324978,Estupro,Rua das Flores,Madalena,27,Não Informado,Sim
+950,2024-07-30 18:03:56.324981,Homicídio,Centro Comercial,Boa Vista,31,Masculino,Não
+951,2024-08-04 18:03:56.324984,Assalto à Mão Armada,Posto de Gasolina,Afogados,42,Não Informado,Não
+952,2024-07-24 18:03:56.324986,Homicídio,Escola Estadual,Centro,39,Masculino,Sim
+953,2025-02-10 18:03:56.324989,Vandalismo,Posto de Gasolina,Centro,41,Masculino,Não
+954,2024-09-11 18:03:56.324992,Latrocínio,Escola Estadual,Centro,51,Não Informado,Não
+955,2024-11-23 18:03:56.324996,Tráfico de Drogas,Parque Municipal,Afogados,19,Masculino,Não
+956,2024-10-18 18:03:56.324999,Furto,Escola Estadual,Boa Vista,45,Feminino,Não
+957,2024-10-22 18:03:56.325001,Tráfico de Drogas,Posto de Gasolina,Afogados,43,Feminino,Não
+958,2025-01-04 18:03:56.325004,Assalto à Mão Armada,Escola Estadual,Centro,37,Não Informado,Não
+959,2024-08-08 18:03:56.325006,Tráfico de Drogas,Parque Municipal,Ibura,20,Feminino,Sim
+960,2024-10-29 18:03:56.325009,Estupro,Parque Municipal,Casa Forte,48,Masculino,Não
+961,2024-12-31 18:03:56.325012,Sequestro,Rua A,Tamarineira,56,Feminino,Sim
+962,2024-08-18 18:03:56.325015,Furto,Escola Estadual,Afogados,28,Não Informado,Sim
+963,2024-07-23 18:03:56.325018,Violência Doméstica,Rua das Flores,Boa Vista,24,Não Informado,Sim
+964,2025-05-06 18:03:56.325020,Assalto à Mão Armada,Rodovia BR-101,Boa Vista,37,Masculino,Sim
+965,2024-07-28 18:03:56.325024,Furto,Avenida Central,Jardim São Paulo,33,Não Informado,Não
+966,2025-04-16 18:03:56.325027,Tráfico de Drogas,Parque Municipal,Casa Forte,18,Feminino,Não
+967,2025-02-19 18:03:56.325030,Estupro,Praça da Paz,Graças,56,Não Informado,Não
+968,2024-07-20 18:03:56.325032,Roubo,Rodovia BR-101,Madalena,42,Masculino,Sim
+969,2025-02-17 18:03:56.325035,Latrocínio,Estação de Metrô,Centro,71,Não Informado,Não
+970,2025-01-21 18:03:56.325038,Violência Doméstica,Escola Estadual,Graças,28,Feminino,Não
+971,2024-07-02 18:03:56.325040,Latrocínio,Posto de Gasolina,Jardim São Paulo,76,Masculino,Não
+972,2025-04-25 18:03:56.325043,Furto,Avenida Central,Centro,49,Feminino,Sim
+973,2025-03-17 18:03:56.325046,Estupro,Praça da Paz,Casa Forte,56,Masculino,Sim
+974,2025-02-03 18:03:56.325051,Estupro,Rodovia BR-101,Jardim São Paulo,74,Não Informado,Não
+975,2025-03-09 18:03:56.325054,Tráfico de Drogas,Escola Estadual,Centro,38,Masculino,Sim
+976,2024-08-27 18:03:56.325057,Vandalismo,Rua A,Casa Forte,59,Masculino,Sim
+977,2025-04-28 18:03:56.325060,Tráfico de Drogas,Estação de Metrô,Imbiribeira,22,Não Informado,Não
+978,2025-03-17 18:03:56.325063,Vandalismo,Avenida Central,Graças,10,Feminino,Sim
+979,2025-06-04 18:03:56.325065,Vandalismo,Rua das Flores,Graças,43,Não Informado,Sim
+980,2024-11-08 18:03:56.325068,Violência Doméstica,Rua A,Madalena,57,Masculino,Não
+981,2024-10-18 18:03:56.325070,Tráfico de Drogas,Praça da Paz,Casa Forte,57,Não Informado,Sim
+982,2024-06-18 18:03:56.325073,Roubo,Avenida Central,Afogados,58,Masculino,Sim
+983,2024-08-05 18:03:56.325076,Homicídio,Rua A,Imbiribeira,73,Não Informado,Sim
+984,2024-10-08 18:03:56.325078,Homicídio,Estação de Metrô,Ibura,70,Não Informado,Sim
+985,2025-01-07 18:03:56.325081,Tráfico de Drogas,Rua das Flores,Centro,38,Feminino,Sim
+986,2025-05-20 18:03:56.325084,Tráfico de Drogas,Rua A,Imbiribeira,48,Masculino,Sim
+987,2025-02-07 18:03:56.325086,Latrocínio,Centro Comercial,Casa Forte,35,Feminino,Sim
+988,2025-01-09 18:03:56.325089,Violência Doméstica,Rua das Flores,Tamarineira,26,Masculino,Sim
+989,2024-06-09 18:03:56.325092,Tráfico de Drogas,Praça da Paz,Centro,22,Não Informado,Não
+990,2025-01-12 18:03:56.325094,Latrocínio,Estação de Metrô,Boa Vista,78,Masculino,Não
+991,2024-06-11 18:03:56.325097,Vandalismo,Escola Estadual,Graças,35,Feminino,Não
+992,2024-10-16 18:03:56.325100,Estupro,Posto de Gasolina,Casa Forte,58,Feminino,Não
+993,2025-04-30 18:03:56.325103,Estupro,Posto de Gasolina,Boa Vista,76,Feminino,Sim
+994,2024-06-19 18:03:56.325105,Vandalismo,Posto de Gasolina,Madalena,16,Masculino,Não
+995,2025-02-06 18:03:56.325108,Assalto à Mão Armada,Avenida Central,Jardim São Paulo,67,Feminino,Não
+996,2025-01-21 18:03:56.325110,Latrocínio,Praça da Paz,Ibura,58,Feminino,Sim
+997,2024-07-20 18:03:56.325113,Latrocínio,Estação de Metrô,Ibura,62,Feminino,Sim
+998,2024-08-08 18:03:56.325116,Vandalismo,Rua das Flores,Boa Vista,74,Não Informado,Sim
+999,2024-07-02 18:03:56.325119,Roubo,Avenida Central,Graças,71,Não Informado,Sim
+1000,2025-02-24 18:03:56.325122,Sequestro,Praça da Paz,Madalena,26,Masculino,Sim
